@@ -1,0 +1,1425 @@
+  Issuer:  CN=Entrust Root Certification Authority, OU="(c) 2006 Entrust, Inc.", OU=www.entrust.net/CPS is incorporated by reference, O="Entrust, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x456b5054
+  Valid from Tue Nov 28 00:23:42 GST 2006 until Sat Nov 28 00:53:42 GST 2026
+
+adding as trusted cert:
+  Subject: CN=PRD MasterCard 3DS1 Acquirer Sub CA, OU=MasterCard Identity Check Gen 3, O=MasterCard, C=US
+  Issuer:  CN=PRD MasterCard Identity Check Root CA, OU=MasterCard Identity Check Gen 3, O=MasterCard, C=US
+  Algorithm: RSA; Serial number: 0x83d6710927ad9ce7af835bd39a899e80
+  Valid from Thu Jul 14 14:07:00 GST 2016 until Wed Jul 15 12:10:00 GST 2026
+
+adding as trusted cert:
+  Subject: CN=DigiCert Assured ID Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Issuer:  CN=DigiCert Assured ID Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Algorithm: RSA; Serial number: 0xb931c3ad63967ea6723bfc3af9af44b
+  Valid from Thu Aug 01 16:00:00 GST 2013 until Fri Jan 15 16:00:00 GST 2038
+
+adding as trusted cert:
+  Subject: CN=Certum CA, O=Unizeto Sp. z o.o., C=PL
+  Issuer:  CN=Certum CA, O=Unizeto Sp. z o.o., C=PL
+  Algorithm: RSA; Serial number: 0x10020
+  Valid from Tue Jun 11 14:46:39 GST 2002 until Fri Jun 11 14:46:39 GST 2027
+
+adding as trusted cert:
+  Subject: CN=AddTrust Qualified CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Issuer:  CN=AddTrust Qualified CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 30 14:44:50 GST 2000 until Sat May 30 14:44:50 GST 2020
+
+adding as trusted cert:
+  Subject: CN=DST Root CA X3, O=Digital Signature Trust Co.
+  Issuer:  CN=DST Root CA X3, O=Digital Signature Trust Co.
+  Algorithm: RSA; Serial number: 0x44afb080d6a327ba893039862ef8406b
+  Valid from Sun Oct 01 01:12:19 GST 2000 until Thu Sep 30 18:01:15 GST 2021
+
+adding as trusted cert:
+  Subject: CN=Buypass Class 2 Root CA, O=Buypass AS-983163327, C=NO
+  Issuer:  CN=Buypass Class 2 Root CA, O=Buypass AS-983163327, C=NO
+  Algorithm: RSA; Serial number: 0x2
+  Valid from Tue Oct 26 12:38:03 GST 2010 until Fri Oct 26 12:38:03 GST 2040
+
+adding as trusted cert:
+  Subject: CN=D-TRUST Root Class 3 CA 2 EV 2009, O=D-Trust GmbH, C=DE
+  Issuer:  CN=D-TRUST Root Class 3 CA 2 EV 2009, O=D-Trust GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x983f4
+  Valid from Thu Nov 05 12:50:46 GST 2009 until Mon Nov 05 12:50:46 GST 2029
+
+adding as trusted cert:
+  Subject: CN=DigiCert Assured ID Root G3, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Issuer:  CN=DigiCert Assured ID Root G3, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Algorithm: EC; Serial number: 0xba15afa1ddfa0b54944afcd24a06cec
+  Valid from Thu Aug 01 16:00:00 GST 2013 until Fri Jan 15 16:00:00 GST 2038
+
+adding as trusted cert:
+  Subject: CN=SwissSign Gold CA - G2, O=SwissSign AG, C=CH
+  Issuer:  CN=SwissSign Gold CA - G2, O=SwissSign AG, C=CH
+  Algorithm: RSA; Serial number: 0xbb401c43f55e4fb0
+  Valid from Wed Oct 25 12:30:35 GST 2006 until Sat Oct 25 12:30:35 GST 2036
+
+adding as trusted cert:
+  Subject: CN=USERTrust ECC Certification Authority, O=The USERTRUST Network, L=Jersey City, ST=New Jersey, C=US
+  Issuer:  CN=USERTrust ECC Certification Authority, O=The USERTRUST Network, L=Jersey City, ST=New Jersey, C=US
+  Algorithm: EC; Serial number: 0x5c8b99c55a94c5d27156decd8980cc26
+  Valid from Mon Feb 01 04:00:00 GST 2010 until Tue Jan 19 03:59:59 GST 2038
+
+adding as trusted cert:
+  Subject: CN=IdenTrust Commercial Root CA 1, O=IdenTrust, C=US
+  Issuer:  CN=IdenTrust Commercial Root CA 1, O=IdenTrust, C=US
+  Algorithm: RSA; Serial number: 0xa0142800000014523c844b500000002
+  Valid from Thu Jan 16 22:12:23 GST 2014 until Mon Jan 16 22:12:23 GST 2034
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root CA 2, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root CA 2, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x509
+  Valid from Fri Nov 24 22:27:00 GST 2006 until Mon Nov 24 22:23:33 GST 2031
+
+adding as trusted cert:
+  Subject: CN=Deutsche Telekom Root CA 2, OU=T-TeleSec Trust Center, O=Deutsche Telekom AG, C=DE
+  Issuer:  CN=Deutsche Telekom Root CA 2, OU=T-TeleSec Trust Center, O=Deutsche Telekom AG, C=DE
+  Algorithm: RSA; Serial number: 0x26
+  Valid from Fri Jul 09 16:11:00 GST 1999 until Wed Jul 10 03:59:00 GST 2019
+
+adding as trusted cert:
+  Subject: CN=D-TRUST Root Class 3 CA 2 2009, O=D-Trust GmbH, C=DE
+  Issuer:  CN=D-TRUST Root Class 3 CA 2 2009, O=D-Trust GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x983f3
+  Valid from Thu Nov 05 12:35:58 GST 2009 until Mon Nov 05 12:35:58 GST 2029
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root CA 1 G3, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root CA 1 G3, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x78585f2ead2c194be3370735341328b596d46593
+  Valid from Thu Jan 12 21:27:44 GST 2012 until Sun Jan 12 21:27:44 GST 2042
+
+adding as trusted cert:
+  Subject: CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey City, ST=New Jersey, C=US
+  Issuer:  CN=USERTrust RSA Certification Authority, O=The USERTRUST Network, L=Jersey City, ST=New Jersey, C=US
+  Algorithm: RSA; Serial number: 0x1fd6d30fca3ca51a81bbc640e35032d
+  Valid from Mon Feb 01 04:00:00 GST 2010 until Tue Jan 19 03:59:59 GST 2038
+
+adding as trusted cert:
+  Subject: OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 2 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Issuer:  OU=VeriSign Trust Network, OU="(c) 1998 VeriSign, Inc. - For authorized use only", OU=Class 2 Public Primary Certification Authority - G2, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0xb92f60cc889fa17a4609b85b706c8aaf
+  Valid from Mon May 18 04:00:00 GST 1998 until Wed Aug 02 03:59:59 GST 2028
+
+adding as trusted cert:
+  Subject: CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R2
+  Issuer:  CN=GlobalSign, O=GlobalSign, OU=GlobalSign Root CA - R2
+  Algorithm: RSA; Serial number: 0x400000000010f8626e60d
+  Valid from Fri Dec 15 12:00:00 GST 2006 until Wed Dec 15 12:00:00 GST 2021
+
+adding as trusted cert:
+  Subject: CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Class 3 Public Primary Certification Authority - G5, OU="(c) 2006 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x18dad19e267de8bb4a2158cdcc6b3b4a
+  Valid from Wed Nov 08 04:00:00 GST 2006 until Thu Jul 17 03:59:59 GST 2036
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root CA 3, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root CA 3, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x5c6
+  Valid from Fri Nov 24 23:11:23 GST 2006 until Mon Nov 24 23:06:44 GST 2031
+
+adding as trusted cert:
+  Subject: CN=Starfield Services Root Certificate Authority - G2, O="Starfield Technologies, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Issuer:  CN=Starfield Services Root Certificate Authority - G2, O="Starfield Technologies, Inc.", L=Scottsdale, ST=Arizona, C=US
+  Algorithm: RSA; Serial number: 0x0
+  Valid from Tue Sep 01 04:00:00 GST 2009 until Fri Jan 01 03:59:59 GST 2038
+
+adding as trusted cert:
+  Subject: CN=Swisscom Root CA 2, OU=Digital Certificate Services, O=Swisscom, C=ch
+  Issuer:  CN=Swisscom Root CA 2, OU=Digital Certificate Services, O=Swisscom, C=ch
+  Algorithm: RSA; Serial number: 0x1e9e28e848f2e5efc37c4a1e5a1867b6
+  Valid from Fri Jun 24 12:38:14 GST 2011 until Wed Jun 25 11:38:14 GST 2031
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root CA 3 G3, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root CA 3 G3, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x2ef59b0228a7db7affd5a3a9eebd03a0cf126a1d
+  Valid from Fri Jan 13 00:26:32 GST 2012 until Mon Jan 13 00:26:32 GST 2042
+
+adding as trusted cert:
+  Subject: CN=PRD MasterCard Identity Check Root CA, OU=MasterCard Identity Check Gen 3, O=MasterCard, C=US
+  Issuer:  CN=PRD MasterCard Identity Check Root CA, OU=MasterCard Identity Check Gen 3, O=MasterCard, C=US
+  Algorithm: RSA; Serial number: 0x16c8f222eaa1c3cd3034c8d7538ee57e
+  Valid from Thu Jul 14 11:24:00 GST 2016 until Mon Jul 15 12:10:00 GST 2030
+
+adding as trusted cert:
+  Subject: CN=Actalis Authentication Root CA, O=Actalis S.p.A./03358520967, L=Milan, C=IT
+  Issuer:  CN=Actalis Authentication Root CA, O=Actalis S.p.A./03358520967, L=Milan, C=IT
+  Algorithm: RSA; Serial number: 0x570a119742c4e3cc
+  Valid from Thu Sep 22 15:22:02 GST 2011 until Sun Sep 22 15:22:02 GST 2030
+
+adding as trusted cert:
+  Subject: CN=securepayments.oabipay.com, OU=MPIC-IT, O=Oman Arab Bank, L=Muscat, ST=Muscat, C=OM
+  Issuer:  CN=PRD MasterCard 3DS1 Acquirer Sub CA, OU=MasterCard Identity Check Gen 3, O=MasterCard, C=US
+  Algorithm: RSA; Serial number: 0xf330b5a6e35120e
+  Valid from Mon Jul 12 11:41:32 GST 2021 until Thu Jul 11 11:41:32 GST 2024
+
+adding as trusted cert:
+  Subject: OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+  Issuer:  OU=Class 3 Public Primary Certification Authority, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x3c9131cb1ff6d01b0e9ab8d044bf12be
+  Valid from Mon Jan 29 04:00:00 GST 1996 until Thu Aug 03 03:59:59 GST 2028
+
+adding as trusted cert:
+  Subject: CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US
+  Issuer:  CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US
+  Algorithm: RSA; Serial number: 0x7adbb548cc699c43409e73b3d4ff8fb5
+  Valid from Sat Jan 12 07:37:49 GST 2013 until Wed Jan 12 07:37:49 GST 2033
+
+adding as trusted cert:
+  Subject: CN=QuoVadis Root Certification Authority, OU=Root Certification Authority, O=QuoVadis Limited, C=BM
+  Issuer:  CN=QuoVadis Root Certification Authority, OU=Root Certification Authority, O=QuoVadis Limited, C=BM
+  Algorithm: RSA; Serial number: 0x3ab6508b
+  Valid from Mon Mar 19 22:33:33 GST 2001 until Wed Mar 17 22:33:33 GST 2021
+
+adding as trusted cert:
+  Subject: CN=Class 3P Primary CA, O=Certplus, C=FR
+  Issuer:  CN=Class 3P Primary CA, O=Certplus, C=FR
+  Algorithm: RSA; Serial number: 0xbf5cdbb6f21c6ec04deb7a023b36e879
+  Valid from Wed Jul 07 21:10:00 GST 1999 until Sun Jul 07 03:59:59 GST 2019
+
+adding as trusted cert:
+  Subject: CN=Buypass Class 3 Root CA, O=Buypass AS-983163327, C=NO
+  Issuer:  CN=Buypass Class 3 Root CA, O=Buypass AS-983163327, C=NO
+  Algorithm: RSA; Serial number: 0x2
+  Valid from Tue Oct 26 12:28:58 GST 2010 until Fri Oct 26 12:28:58 GST 2040
+
+adding as trusted cert:
+  Subject: CN=thawte Primary Root CA - G2, OU="(c) 2007 thawte, Inc. - For authorized use only", O="thawte, Inc.", C=US
+  Issuer:  CN=thawte Primary Root CA - G2, OU="(c) 2007 thawte, Inc. - For authorized use only", O="thawte, Inc.", C=US
+  Algorithm: EC; Serial number: 0x35fc265cd9844fc93d263d579baed756
+  Valid from Mon Nov 05 04:00:00 GST 2007 until Tue Jan 19 03:59:59 GST 2038
+
+adding as trusted cert:
+  Subject: CN=VeriSign Universal Root Certification Authority, OU="(c) 2008 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Issuer:  CN=VeriSign Universal Root Certification Authority, OU="(c) 2008 VeriSign, Inc. - For authorized use only", OU=VeriSign Trust Network, O="VeriSign, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x401ac46421b31321030ebbe4121ac51d
+  Valid from Wed Apr 02 04:00:00 GST 2008 until Wed Dec 02 03:59:59 GST 2037
+
+adding as trusted cert:
+  Subject: CN=AddTrust Class 1 CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Issuer:  CN=AddTrust Class 1 CA Root, OU=AddTrust TTP Network, O=AddTrust AB, C=SE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Tue May 30 14:38:31 GST 2000 until Sat May 30 14:38:31 GST 2020
+
+adding as trusted cert:
+  Subject: CN=VBVTESTSUITE_DS_RSA, OU=VSTS, O=VISA, L=AUSTIN, ST=TX, C=US
+  Issuer:  C=US, ST=Colorado, L=Denver, O=VISA, OU=VBVTESTSUITE, CN=VBVTESTSUITE2_RSA_SIGN_CA_CTE
+  Algorithm: RSA; Serial number: 0x307a09561bdc15b684496963af6aa04c87948917
+  Valid from Thu Jul 15 02:06:33 GST 2021 until Fri Jul 15 02:06:33 GST 2022
+
+adding as trusted cert:
+  Subject: CN=GlobalSign, O=GlobalSign, OU=GlobalSign ECC Root CA - R4
+  Issuer:  CN=GlobalSign, O=GlobalSign, OU=GlobalSign ECC Root CA - R4
+  Algorithm: EC; Serial number: 0x2a38a41c960a04de42b228a50be8349802
+  Valid from Tue Nov 13 04:00:00 GST 2012 until Tue Jan 19 07:14:07 GST 2038
+
+adding as trusted cert:
+  Subject: CN=Global Chambersign Root - 2008, O=AC Camerfirma S.A., SERIALNUMBER=A82743287, L=Madrid (see current address at www.camerfirma.com/address), C=EU
+  Issuer:  CN=Global Chambersign Root - 2008, O=AC Camerfirma S.A., SERIALNUMBER=A82743287, L=Madrid (see current address at www.camerfirma.com/address), C=EU
+  Algorithm: RSA; Serial number: 0xc9cdd3e9d57d23ce
+  Valid from Fri Aug 01 16:31:40 GST 2008 until Sat Jul 31 16:31:40 GST 2038
+
+adding as trusted cert:
+  Subject: CN=thawte Primary Root CA - G3, OU="(c) 2008 thawte, Inc. - For authorized use only", OU=Certification Services Division, O="thawte, Inc.", C=US
+  Issuer:  CN=thawte Primary Root CA - G3, OU="(c) 2008 thawte, Inc. - For authorized use only", OU=Certification Services Division, O="thawte, Inc.", C=US
+  Algorithm: RSA; Serial number: 0x600197b746a7eab4b49ad64b2ff790fb
+  Valid from Wed Apr 02 04:00:00 GST 2008 until Wed Dec 02 03:59:59 GST 2037
+
+adding as trusted cert:
+  Subject: CN=*.oabipay.com, O=Oman Arab Bank S.A.O.G, L=Muscat, C=OM
+  Issuer:  CN=Kaspersky Anti-Virus Personal Root Certificate, O=AO Kaspersky Lab
+  Algorithm: RSA; Serial number: 0x420000132d6157a756
+  Valid from Sat Apr 03 04:27:02 GST 2021 until Sat Apr 02 04:27:02 GST 2022
+
+adding as trusted cert:
+  Subject: CN=COMODO RSA Certification Authority, O=COMODO CA Limited, L=Salford, ST=Greater Manchester, C=GB
+  Issuer:  CN=COMODO RSA Certification Authority, O=COMODO CA Limited, L=Salford, ST=Greater Manchester, C=GB
+  Algorithm: RSA; Serial number: 0x4caaf9cadb636fe01ff74ed85b03869d
+  Valid from Tue Jan 19 04:00:00 GST 2010 until Tue Jan 19 03:59:59 GST 2038
+
+adding as trusted cert:
+  Subject: CN=GTE CyberTrust Global Root, OU="GTE CyberTrust Solutions, Inc.", O=GTE Corporation, C=US
+  Issuer:  CN=GTE CyberTrust Global Root, OU="GTE CyberTrust Solutions, Inc.", O=GTE Corporation, C=US
+  Algorithm: RSA; Serial number: 0x1a5
+  Valid from Thu Aug 13 04:29:00 GST 1998 until Tue Aug 14 03:59:00 GST 2018
+
+adding as trusted cert:
+  Subject: EMAILADDRESS=premium-server@thawte.com, CN=Thawte Premium Server CA, OU=Certification Services Division, O=Thawte Consulting cc, L=Cape Town, ST=Western Cape, C=ZA
+  Issuer:  EMAILADDRESS=premium-server@thawte.com, CN=Thawte Premium Server CA, OU=Certification Services Division, O=Thawte Consulting cc, L=Cape Town, ST=Western Cape, C=ZA
+  Algorithm: RSA; Serial number: 0x36122296c5e338a520a1d25f4cd70954
+  Valid from Thu Aug 01 04:00:00 GST 1996 until Sat Jan 02 03:59:59 GST 2021
+
+adding as trusted cert:
+  Subject: CN=AffirmTrust Premium ECC, O=AffirmTrust, C=US
+  Issuer:  CN=AffirmTrust Premium ECC, O=AffirmTrust, C=US
+  Algorithm: EC; Serial number: 0x7497258ac73f7a54
+  Valid from Fri Jan 29 18:20:24 GST 2010 until Mon Dec 31 18:20:24 GST 2040
+
+adding as trusted cert:
+  Subject: CN=T-TeleSec GlobalRoot Class 2, OU=T-Systems Trust Center, O=T-Systems Enterprise Services GmbH, C=DE
+  Issuer:  CN=T-TeleSec GlobalRoot Class 2, OU=T-Systems Trust Center, O=T-Systems Enterprise Services GmbH, C=DE
+  Algorithm: RSA; Serial number: 0x1
+  Valid from Wed Oct 01 14:40:14 GST 2008 until Sun Oct 02 03:59:59 GST 2033
+
+adding as trusted cert:
+  Subject: CN=KEYNECTIS ROOT CA, OU=ROOT, O=KEYNECTIS, C=FR
+  Issuer:  CN=KEYNECTIS ROOT CA, OU=ROOT, O=KEYNECTIS, C=FR
+  Algorithm: RSA; Serial number: 0x1121bc276c5547af584eefd4ced629b2a285
+  Valid from Tue May 26 04:00:00 GST 2009 until Tue May 26 04:00:00 GST 2020
+
+adding as trusted cert:
+  Subject: CN=WMSvc-SHA2-LAMMA-WEB-03
+  Issuer:  CN=WMSvc-SHA2-LAMMA-WEB-03
+  Algorithm: RSA; Serial number: 0x210e510a6db7e9bf4768855121723941
+  Valid from Thu Aug 26 13:18:35 GST 2021 until Sun Aug 24 13:18:35 GST 2031
+
+adding as trusted cert:
+  Subject: CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Issuer:  CN=DigiCert Global Root G2, OU=www.digicert.com, O=DigiCert Inc, C=US
+  Algorithm: RSA; Serial number: 0x33af1e6a711a9a0bb2864b11d09fae5
+  Valid from Thu Aug 01 16:00:00 GST 2013 until Fri Jan 15 16:00:00 GST 2038
+
+keyStore is : 
+keyStore type is : jks
+keyStore provider is : 
+init keystore
+init keymanager of type SunX509
+trigger seeding of SecureRandom
+done seeding SecureRandom
+Allow unsafe renegotiation: false
+Allow legacy hello messages: true
+Is initial handshake: true
+Is secure renegotiation: false
+main, setSoTimeout(0) called
+main, the previous server name in SNI (type=host_name (0), value=VisaSecureTestSuite-vsts.3dsecure.net) was replaced with (type=host_name (0), value=VisaSecureTestSuite-vsts.3dsecure.net)
+Ignoring unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLSv1
+Ignoring unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLSv1
+Ignoring unsupported cipher suite: TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_RSA_WITH_AES_256_CBC_SHA256 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_DHE_RSA_WITH_AES_256_CBC_SHA256 for TLSv1.1
+Ignoring unsupported cipher suite: TLS_DHE_DSS_WITH_AES_256_CBC_SHA256 for TLSv1.1
+%% No cached client session
+update handshake state: client_hello[1]
+upcoming handshake states: server_hello[2]
+*** ClientHello, TLSv1.2
+RandomCookie:  GMT: 1646878564 bytes = { 143, 26, 180, 156, 115, 108, 30, 28, 97, 252, 100, 197, 5, 214, 69, 183, 43, 72, 84, 55, 183, 1, 39, 251, 117, 38, 30, 117 }
+Session ID:  {}
+Cipher Suites: [TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384, TLS_RSA_WITH_AES_256_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384, TLS_DHE_RSA_WITH_AES_256_CBC_SHA256, TLS_DHE_DSS_WITH_AES_256_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA, TLS_RSA_WITH_AES_256_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA, TLS_ECDH_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_RSA_WITH_AES_256_CBC_SHA, TLS_DHE_DSS_WITH_AES_256_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256, TLS_RSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_RSA_WITH_AES_128_CBC_SHA256, TLS_DHE_DSS_WITH_AES_128_CBC_SHA256, TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA, TLS_RSA_WITH_AES_128_CBC_SHA, TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA, TLS_ECDH_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_RSA_WITH_AES_128_CBC_SHA, TLS_DHE_DSS_WITH_AES_128_CBC_SHA, TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384, TLS_RSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384, TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_RSA_WITH_AES_256_GCM_SHA384, TLS_DHE_DSS_WITH_AES_256_GCM_SHA384, TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256, TLS_RSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256, TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_RSA_WITH_AES_128_GCM_SHA256, TLS_DHE_DSS_WITH_AES_128_GCM_SHA256]
+Compression Methods:  { 0 }
+Extension elliptic_curves, curve names: {secp256r1, secp384r1, secp521r1, sect283k1, sect283r1, sect409k1, sect409r1, sect571k1, sect571r1, secp256k1}
+Extension ec_point_formats, formats: [uncompressed]
+Extension signature_algorithms, signature_algorithms: SHA512withECDSA, SHA512withRSA, SHA384withECDSA, SHA384withRSA, SHA256withECDSA, SHA256withRSA, SHA256withDSA, SHA1withECDSA, SHA1withRSA, SHA1withDSA
+Extension extended_master_secret
+Extension server_name, server_name: [type=host_name (0), value=VisaSecureTestSuite-vsts.3dsecure.net]
+Extension renegotiation_info, renegotiated_connection: <empty>
+***
+[write] MD5 and SHA1 hashes:  len = 242
+0000: 01 00 00 EE 03 03 62 29   5F 64 8F 1A B4 9C 73 6C  ......b)_d....sl
+0010: 1E 1C 61 FC 64 C5 05 D6   45 B7 2B 48 54 37 B7 01  ..a.d...E.+HT7..
+0020: 27 FB 75 26 1E 75 00 00   54 C0 24 C0 28 00 3D C0  '.u&.u..T.$.(.=.
+0030: 26 C0 2A 00 6B 00 6A C0   0A C0 14 00 35 C0 05 C0  &.*.k.j.....5...
+0040: 0F 00 39 00 38 C0 23 C0   27 00 3C C0 25 C0 29 00  ..9.8.#.'.<.%.).
+0050: 67 00 40 C0 09 C0 13 00   2F C0 04 C0 0E 00 33 00  g.@...../.....3.
+0060: 32 C0 2C C0 2B C0 30 00   9D C0 2E C0 32 00 9F 00  2.,.+.0.....2...
+0070: A3 C0 2F 00 9C C0 2D C0   31 00 9E 00 A2 01 00 00  ../...-.1.......
+0080: 71 00 0A 00 16 00 14 00   17 00 18 00 19 00 09 00  q...............
+0090: 0A 00 0B 00 0C 00 0D 00   0E 00 16 00 0B 00 02 01  ................
+00A0: 00 00 0D 00 16 00 14 06   03 06 01 05 03 05 01 04  ................
+00B0: 03 04 01 04 02 02 03 02   01 02 02 00 17 00 00 00  ................
+00C0: 00 00 2A 00 28 00 00 25   56 69 73 61 53 65 63 75  ..*.(..%VisaSecu
+00D0: 72 65 54 65 73 74 53 75   69 74 65 2D 76 73 74 73  reTestSuite-vsts
+00E0: 2E 33 64 73 65 63 75 72   65 2E 6E 65 74 FF 01 00  .3dsecure.net...
+00F0: 01 00                                              ..
+main, WRITE: TLSv1.2 Handshake, length = 242
+[Raw write]: length = 247
+0000: 16 03 03 00 F2 01 00 00   EE 03 03 62 29 5F 64 8F  ...........b)_d.
+0010: 1A B4 9C 73 6C 1E 1C 61   FC 64 C5 05 D6 45 B7 2B  ...sl..a.d...E.+
+0020: 48 54 37 B7 01 27 FB 75   26 1E 75 00 00 54 C0 24  HT7..'.u&.u..T.$
+0030: C0 28 00 3D C0 26 C0 2A   00 6B 00 6A C0 0A C0 14  .(.=.&.*.k.j....
+0040: 00 35 C0 05 C0 0F 00 39   00 38 C0 23 C0 27 00 3C  .5.....9.8.#.'.<
+0050: C0 25 C0 29 00 67 00 40   C0 09 C0 13 00 2F C0 04  .%.).g.@...../..
+0060: C0 0E 00 33 00 32 C0 2C   C0 2B C0 30 00 9D C0 2E  ...3.2.,.+.0....
+0070: C0 32 00 9F 00 A3 C0 2F   00 9C C0 2D C0 31 00 9E  .2...../...-.1..
+0080: 00 A2 01 00 00 71 00 0A   00 16 00 14 00 17 00 18  .....q..........
+0090: 00 19 00 09 00 0A 00 0B   00 0C 00 0D 00 0E 00 16  ................
+00A0: 00 0B 00 02 01 00 00 0D   00 16 00 14 06 03 06 01  ................
+00B0: 05 03 05 01 04 03 04 01   04 02 02 03 02 01 02 02  ................
+00C0: 00 17 00 00 00 00 00 2A   00 28 00 00 25 56 69 73  .......*.(..%Vis
+00D0: 61 53 65 63 75 72 65 54   65 73 74 53 75 69 74 65  aSecureTestSuite
+00E0: 2D 76 73 74 73 2E 33 64   73 65 63 75 72 65 2E 6E  -vsts.3dsecure.n
+00F0: 65 74 FF 01 00 01 00                               et.....
+[Raw read]: length = 5
+0000: 16 03 03 00 3B                                     ....;
+[Raw read]: length = 59
+0000: 02 00 00 37 03 03 3E F9   C1 07 82 0B 39 CC E6 FE  ...7..>.....9...
+0010: D6 85 6C AC 49 D4 A8 27   7E F6 49 58 08 2C 82 99  ..l.I..'..IX.,..
+0020: BD 77 90 A9 63 7A 00 C0   30 00 00 0F FF 01 00 01  .w..cz..0.......
+0030: 00 00 0B 00 02 01 00 00   17 00 00                 ...........
+main, READ: TLSv1.2 Handshake, length = 59
+check handshake state: server_hello[2]
+*** ServerHello, TLSv1.2
+RandomCookie:  GMT: 1039712519 bytes = { 130, 11, 57, 204, 230, 254, 214, 133, 108, 172, 73, 212, 168, 39, 126, 246, 73, 88, 8, 44, 130, 153, 189, 119, 144, 169, 99, 122 }
+Session ID:  {}
+Cipher Suite: TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+Compression Method: 0
+Extension renegotiation_info, renegotiated_connection: <empty>
+Extension ec_point_formats, formats: [uncompressed]
+Extension extended_master_secret
+***
+%% Initialized:  [Session-1, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384]
+** TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384
+update handshake state: server_hello[2]
+upcoming handshake states: server certificate[11]
+upcoming handshake states: server_key_exchange[12](optional)
+upcoming handshake states: certificate_request[13](optional)
+upcoming handshake states: server_hello_done[14]
+upcoming handshake states: client certificate[11](optional)
+upcoming handshake states: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+[read] MD5 and SHA1 hashes:  len = 59
+0000: 02 00 00 37 03 03 3E F9   C1 07 82 0B 39 CC E6 FE  ...7..>.....9...
+0010: D6 85 6C AC 49 D4 A8 27   7E F6 49 58 08 2C 82 99  ..l.I..'..IX.,..
+0020: BD 77 90 A9 63 7A 00 C0   30 00 00 0F FF 01 00 01  .w..cz..0.......
+0030: 00 00 0B 00 02 01 00 00   17 00 00                 ...........
+[Raw read]: length = 5
+0000: 16 03 03 0D 48                                     ....H
+[Raw read]: length = 3400
+0000: 0B 00 0D 44 00 0D 41 00   04 F8 30 82 04 F4 30 82  ...D..A...0...0.
+0010: 03 DC A0 03 02 01 02 02   10 50 00 91 40 4A 2E 12  .........P..@J..
+0020: 5F DC 7D AE 44 9C 8A A6   A3 30 0D 06 09 2A 86 48  _...D....0...*.H
+0030: 86 F7 0D 01 01 0B 05 00   30 74 31 0B 30 09 06 03  ........0t1.0...
+0040: 55 04 06 13 02 55 53 31   0D 30 0B 06 03 55 04 0A  U....US1.0...U..
+0050: 13 04 56 49 53 41 31 2F   30 2D 06 03 55 04 0B 13  ..VISA1/0-..U...
+0060: 26 56 69 73 61 20 49 6E   74 65 72 6E 61 74 69 6F  &Visa Internatio
+0070: 6E 61 6C 20 53 65 72 76   69 63 65 20 41 73 73 6F  nal Service Asso
+0080: 63 69 61 74 69 6F 6E 31   25 30 23 06 03 55 04 03  ciation1%0#..U..
+0090: 13 1C 56 69 73 61 20 65   43 6F 6D 6D 65 72 63 65  ..Visa eCommerce
+00A0: 20 51 41 20 49 73 73 75   69 6E 67 20 43 41 30 1E   QA Issuing CA0.
+00B0: 17 0D 32 31 31 31 31 39   31 36 34 34 33 32 5A 17  ..211119164432Z.
+00C0: 0D 32 34 30 32 31 37 31   36 34 34 33 31 5A 30 81  .240217164431Z0.
+00D0: A4 31 2E 30 2C 06 03 55   04 03 0C 25 56 69 73 61  .1.0,..U...%Visa
+00E0: 53 65 63 75 72 65 54 65   73 74 53 75 69 74 65 2D  SecureTestSuite-
+00F0: 76 73 74 73 2E 33 64 73   65 63 75 72 65 2E 6E 65  vsts.3dsecure.ne
+0100: 74 31 13 30 11 06 03 55   04 0B 0C 0A 54 65 63 68  t1.0...U....Tech
+0110: 6E 6F 6C 6F 67 79 31 29   30 27 06 03 55 04 0A 0C  nology1)0'..U...
+0120: 20 45 75 72 6F 6E 65 74   20 53 65 72 76 69 63 65   Euronet Service
+0130: 73 20 49 6E 64 69 61 20   50 76 74 2E 20 4C 74 64  s India Pvt. Ltd
+0140: 2E 31 0F 30 0D 06 03 55   04 07 0C 06 4D 75 6D 62  .1.0...U....Mumb
+0150: 61 69 31 14 30 12 06 03   55 04 08 0C 0B 4D 61 68  ai1.0...U....Mah
+0160: 61 72 61 73 68 74 72 61   31 0B 30 09 06 03 55 04  arashtra1.0...U.
+0170: 06 13 02 49 4E 30 82 01   22 30 0D 06 09 2A 86 48  ...IN0.."0...*.H
+0180: 86 F7 0D 01 01 01 05 00   03 82 01 0F 00 30 82 01  .............0..
+0190: 0A 02 82 01 01 00 8C C7   C1 69 1F 91 94 05 79 50  .........i....yP
+01A0: 6B 0D DD 08 D2 DA 29 E9   CE 03 7A 65 E3 61 03 A3  k.....)...ze.a..
+01B0: BB 8E 6D 9B F8 3B 1F 9A   1D A3 13 60 70 38 8F 00  ..m..;.....`p8..
+01C0: 7E 16 1C 67 E2 C1 65 67   86 CB CD 07 75 60 34 E3  ...g..eg....u`4.
+01D0: FF 83 81 B3 D7 42 23 A9   33 96 A2 F2 74 7E 5F 98  .....B#.3...t._.
+01E0: A8 07 0E D3 D2 42 AD 68   24 CE 16 6C BD E9 87 71  .....B.h$..l...q
+01F0: 2E 53 D3 EE 99 F9 D9 9F   C5 6C 8A 9E F6 F3 68 FB  .S.......l....h.
+0200: B3 D1 6A 23 A4 D5 19 A4   E9 AD D0 12 63 04 81 1E  ..j#........c...
+0210: 06 DC 0A 79 57 B8 4D 78   13 9E D4 D2 0C 9A DF B2  ...yW.Mx........
+0220: E2 C0 D2 B5 69 C5 A8 A2   0E D8 92 4B 8A 1C A4 7D  ....i......K....
+0230: 77 0D E4 01 86 89 A9 81   2C 3A 9A 28 C0 DC 77 E2  w.......,:.(..w.
+0240: 76 AD 74 94 32 B1 5D 4F   18 5E 88 BE 16 12 07 74  v.t.2.]O.^.....t
+0250: 35 D8 EC C4 FA 91 FF F4   BF 97 F6 F4 42 8A 7E 67  5...........B..g
+0260: 97 47 36 7E 1C 6A 61 88   4A 93 5E 50 E3 33 BB 5D  .G6..ja.J.^P.3.]
+0270: DF BA 2E A2 FA DF 49 2A   A9 1A 49 D4 13 97 2C 9E  ......I*..I...,.
+0280: 2E 5A 82 A2 5D 3A BC 34   2E 15 E7 46 FA 62 1D B9  .Z..]:.4...F.b..
+0290: 72 50 45 19 5B D3 02 03   01 00 01 A3 82 01 4F 30  rPE.[.........O0
+02A0: 82 01 4B 30 0C 06 03 55   1D 13 01 01 FF 04 02 30  ..K0...U.......0
+02B0: 00 30 1F 06 03 55 1D 23   04 18 30 16 80 14 78 0D  .0...U.#..0...x.
+02C0: AB 6B 7E 4A CB 4C D0 82   38 5D 9D 68 A9 79 55 07  .k.J.L..8].h.yU.
+02D0: D5 01 30 66 06 08 2B 06   01 05 05 07 01 01 04 5A  ..0f..+........Z
+02E0: 30 58 30 2D 06 08 2B 06   01 05 05 07 30 02 86 21  0X0-..+.....0..!
+02F0: 68 74 74 70 3A 2F 2F 61   69 61 71 61 2E 76 69 73  http://aiaqa.vis
+0300: 61 2E 63 6F 6D 2F 65 43   6F 6D 6D 51 41 2E 63 65  a.com/eCommQA.ce
+0310: 72 30 27 06 08 2B 06 01   05 05 07 30 01 86 1B 68  r0'..+.....0...h
+0320: 74 74 70 3A 2F 2F 6F 63   73 70 71 61 2E 76 69 73  ttp://ocspqa.vis
+0330: 61 2E 63 6F 6D 2F 6F 63   73 70 30 30 06 03 55 1D  a.com/ocsp00..U.
+0340: 11 04 29 30 27 82 25 56   69 73 61 53 65 63 75 72  ..)0'.%VisaSecur
+0350: 65 54 65 73 74 53 75 69   74 65 2D 76 73 74 73 2E  eTestSuite-vsts.
+0360: 33 64 73 65 63 75 72 65   2E 6E 65 74 30 1D 06 03  3dsecure.net0...
+0370: 55 1D 25 04 16 30 14 06   08 2B 06 01 05 05 07 03  U.%..0...+......
+0380: 02 06 08 2B 06 01 05 05   07 03 01 30 32 06 03 55  ...+.......02..U
+0390: 1D 1F 04 2B 30 29 30 27   A0 25 A0 23 86 21 68 74  ...+0)0'.%.#.!ht
+03A0: 74 70 3A 2F 2F 61 69 61   71 61 2E 76 69 73 61 2E  tp://aiaqa.visa.
+03B0: 63 6F 6D 2F 65 43 6F 6D   6D 51 41 2E 63 72 6C 30  com/eCommQA.crl0
+03C0: 1D 06 03 55 1D 0E 04 16   04 14 F5 5B BA 64 D2 8B  ...U.......[.d..
+03D0: AC E0 CD 15 33 3A 16 10   63 57 9C F2 59 9F 30 0E  ....3:..cW..Y.0.
+03E0: 06 03 55 1D 0F 01 01 FF   04 04 03 02 05 A0 30 0D  ..U...........0.
+03F0: 06 09 2A 86 48 86 F7 0D   01 01 0B 05 00 03 82 01  ..*.H...........
+0400: 01 00 2C A6 5D A5 44 25   70 BD 90 3A 1B 5B C9 AF  ..,.].D%p..:.[..
+0410: 46 37 1D 65 57 6F 4C A0   06 C9 DC 51 E7 90 AD 1B  F7.eWoL....Q....
+0420: 1F 59 2D D7 07 35 38 2C   64 28 21 C5 38 E7 77 0A  .Y-..58,d(!.8.w.
+0430: 07 1E C8 92 8B 4A 8A 3E   C9 69 2D 88 3E 8F B4 26  .....J.>.i-.>..&
+0440: A3 2B 7C 7C A3 62 BF 47   B4 F3 2A 4D 33 15 A0 9C  .+...b.G..*M3...
+0450: A0 2A 2B 05 3C C9 AE 41   73 F2 89 2E 5E 26 CC 7F  .*+.<..As...^&..
+0460: 6E 03 B1 A0 26 E1 21 C1   0C 41 0D BA 88 D4 CD 85  n...&.!..A......
+0470: 22 68 27 7B E3 50 08 6F   BE 58 B5 69 AB 98 B6 ED  "h'..P.o.X.i....
+0480: 4F D1 C4 9B 6B 68 96 C1   5E BB 7D 41 11 A3 6A D8  O...kh..^..A..j.
+0490: 03 70 CC 26 06 3A 5F D1   42 02 11 39 1E 60 95 AB  .p.&.:_.B..9.`..
+04A0: 1F A5 D0 CB E8 EF 66 64   39 58 58 F4 7D ED 92 B4  ......fd9XX.....
+04B0: 70 99 66 63 01 18 4A 71   28 26 CF A5 97 8D 37 F3  p.fc..Jq(&....7.
+04C0: 64 75 BD 7B 50 13 30 D0   E9 CE 92 14 6D 0D 83 A1  du..P.0.....m...
+04D0: A3 B5 FE 59 9D 0B D2 48   51 8E F3 68 E2 3E E9 A7  ...Y...HQ..h.>..
+04E0: A8 31 A7 35 09 CE 4B B1   4C 0C 9C F3 35 B1 4B 31  .1.5..K.L...5.K1
+04F0: D3 F1 91 03 C4 1D BE 7C   F6 BC A3 0E A7 42 B4 03  .............B..
+0500: B8 4D 00 04 26 30 82 04   22 30 82 03 0A A0 03 02  .M..&0.."0......
+0510: 01 02 02 11 00 AE C1 2C   E4 B8 7C A4 E7 28 9B 4A  .......,.....(.J
+0520: BA 77 91 45 FE 30 0D 06   09 2A 86 48 86 F7 0D 01  .w.E.0...*.H....
+0530: 01 0B 05 00 30 69 31 0B   30 09 06 03 55 04 06 13  ....0i1.0...U...
+0540: 02 55 53 31 0D 30 0B 06   03 55 04 0A 13 04 56 69  .US1.0...U....Vi
+0550: 73 61 31 2F 30 2D 06 03   55 04 0B 13 26 56 69 73  sa1/0-..U...&Vis
+0560: 61 20 49 6E 74 65 72 6E   61 74 69 6F 6E 61 6C 20  a International 
+0570: 53 65 72 76 69 63 65 20   41 73 73 6F 63 69 61 74  Service Associat
+0580: 69 6F 6E 31 1A 30 18 06   03 55 04 03 13 11 56 69  ion1.0...U....Vi
+0590: 73 61 20 65 63 6F 6D 6D   65 72 63 65 20 51 41 30  sa ecommerce QA0
+05A0: 1E 17 0D 31 35 30 35 30   38 31 36 32 30 32 31 5A  ...150508162021Z
+05B0: 17 0D 33 33 30 31 31 31   30 34 33 38 32 32 5A 30  ..330111043822Z0
+05C0: 74 31 0B 30 09 06 03 55   04 06 13 02 55 53 31 0D  t1.0...U....US1.
+05D0: 30 0B 06 03 55 04 0A 13   04 56 49 53 41 31 2F 30  0...U....VISA1/0
+05E0: 2D 06 03 55 04 0B 13 26   56 69 73 61 20 49 6E 74  -..U...&Visa Int
+05F0: 65 72 6E 61 74 69 6F 6E   61 6C 20 53 65 72 76 69  ernational Servi
+0600: 63 65 20 41 73 73 6F 63   69 61 74 69 6F 6E 31 25  ce Association1%
+0610: 30 23 06 03 55 04 03 13   1C 56 69 73 61 20 65 43  0#..U....Visa eC
+0620: 6F 6D 6D 65 72 63 65 20   51 41 20 49 73 73 75 69  ommerce QA Issui
+0630: 6E 67 20 43 41 30 82 01   22 30 0D 06 09 2A 86 48  ng CA0.."0...*.H
+0640: 86 F7 0D 01 01 01 05 00   03 82 01 0F 00 30 82 01  .............0..
+0650: 0A 02 82 01 01 00 9D E3   57 27 CF 43 BB 86 77 19  ........W'.C..w.
+0660: 1D 01 02 28 92 4B 47 9B   D3 8C 5F 82 D8 8C 0A A5  ...(.KG..._.....
+0670: D6 8A BD 01 56 9A 96 B6   30 19 D5 8E 96 47 2A B0  ....V...0....G*.
+0680: 6D 51 E1 5C E7 F0 2B 5D   D8 BF CB D5 A8 71 85 C4  mQ.\..+].....q..
+0690: A7 60 E8 F3 EF 0B 57 76   50 F8 8E 9C B2 2F 16 D2  .`....WvP..../..
+06A0: 27 2F 2D 4D 7E EE 84 66   2D A6 F9 16 52 A1 F6 5E  '/-M...f-...R..^
+06B0: C8 E5 CE AB 09 D0 33 B8   8E CF 34 FA B6 FA B1 6F  ......3...4....o
+06C0: 70 AF DB 0A CC C5 23 E6   85 DC 0E 4C 4A 02 DB 78  p.....#....LJ..x
+06D0: D9 31 8C ED AC 9F 49 8A   6E 0B A9 BB 34 8C EF 52  .1....I.n...4..R
+06E0: B9 5C 2C FA 15 4B 76 1F   AC 65 64 5E D8 F6 F8 77  .\,..Kv..ed^...w
+06F0: 08 0E 38 E5 39 0C C0 65   B2 E3 A1 56 CC D5 D4 2A  ..8.9..e...V...*
+0700: 1D 1B C3 17 32 D2 1B 99   DD 9C 08 F9 5E 04 7B C6  ....2.......^...
+0710: 17 40 8F B5 30 4E C5 C6   5B 2D DA 63 44 F2 FD D8  .@..0N..[-.cD...
+0720: A3 45 87 22 45 3C A5 C9   6C 2D A6 C6 25 F7 18 0E  .E."E<..l-..%...
+0730: 9F AA C1 BD FE FA BE 67   08 0C EF D6 C4 96 9A 66  .......g.......f
+0740: D0 0A 68 10 35 11 22 56   DB 82 0E E9 DB EF 3A 3C  ..h.5."V......:<
+0750: D0 12 CA 09 26 B5 02 03   01 00 01 A3 81 B9 30 81  ....&.........0.
+0760: B6 30 0F 06 03 55 1D 13   01 01 FF 04 05 30 03 01  .0...U.......0..
+0770: 01 FF 30 74 06 03 55 1D   20 04 6D 30 6B 30 69 06  ..0t..U. .m0k0i.
+0780: 05 67 81 03 01 01 30 60   30 23 06 08 2B 06 01 05  .g....0`0#..+...
+0790: 05 07 02 01 16 17 68 74   74 70 3A 2F 2F 77 77 77  ......http://www
+07A0: 2E 76 69 73 61 2E 63 6F   6D 2F 70 6B 69 30 39 06  .visa.com/pki09.
+07B0: 08 2B 06 01 05 05 07 02   02 30 2D 30 18 16 11 52  .+.......0-0...R
+07C0: 65 70 6C 61 63 65 20 54   68 69 73 20 54 65 78 74  eplace This Text
+07D0: 30 03 02 01 01 1A 11 52   65 70 6C 61 63 65 20 54  0......Replace T
+07E0: 68 69 73 20 54 65 78 74   30 0E 06 03 55 1D 0F 01  his Text0...U...
+07F0: 01 FF 04 04 03 02 01 06   30 1D 06 03 55 1D 0E 04  ........0...U...
+0800: 16 04 14 78 0D AB 6B 7E   4A CB 4C D0 82 38 5D 9D  ...x..k.J.L..8].
+0810: 68 A9 79 55 07 D5 01 30   0D 06 09 2A 86 48 86 F7  h.yU...0...*.H..
+0820: 0D 01 01 0B 05 00 03 82   01 01 00 CB 9E CC 32 10  ..............2.
+0830: 2B EA AB E9 E7 67 7B 68   E9 C2 A7 2D 92 63 C5 26  +....g.h...-.c.&
+0840: 57 0D FA A2 A7 AD 99 39   5C B0 E1 B8 82 B2 27 FC  W......9\.....'.
+0850: EB 6A BE 5A 19 40 89 A8   DD A7 A5 A2 77 6E 17 94  .j.Z.@......wn..
+0860: 2A 95 65 1E 54 D5 0A 95   55 22 16 35 3E 2D 80 F1  *.e.T...U".5>-..
+0870: D8 E8 16 9D 6B 37 F3 BE   C0 7E 96 6D 79 9C A2 48  ....k7.....my..H
+0880: 4A D6 A4 A7 38 8F F9 CC   CB 50 0F BE B5 6C EF 92  J...8....P...l..
+0890: 0A 03 28 74 40 4A ED 7F   9E DA 81 7C 33 1E 03 7A  ..(t@J......3..z
+08A0: 85 2A 7A 85 9D A0 61 70   F8 0B D6 BC 4E 0E F3 68  .*z...ap....N..h
+08B0: F9 B6 C8 EF 36 1C 8F F7   7C 6F E7 89 8F DE 44 88  ....6....o....D.
+08C0: FC AC AC A4 93 92 0F 07   C7 E6 04 8E 8D 62 4E 3E  .............bN>
+08D0: A7 D8 C7 33 08 2F EE DC   39 56 7E C6 D8 EC 25 85  ...3./..9V....%.
+08E0: 26 00 37 89 0C BD 46 87   AB FF 6E BB BA CA B2 F7  &.7...F...n.....
+08F0: E0 73 60 6E 7F 8E D4 A6   D2 11 2E 5D 9F B2 22 5E  .s`n.......].."^
+0900: F2 FC FC 5C BD 0E DD 85   E6 37 68 CE B8 3C AF CA  ...\.....7h..<..
+0910: 6D CB 83 3E 87 9C F4 8F   62 DF E8 6A 3D 66 BD DE  m..>....b..j=f..
+0920: D7 F6 8E 05 64 48 BC FE   6D CD C1 00 04 1A 30 82  ....dH..m.....0.
+0930: 04 16 30 82 02 FE A0 03   02 01 02 02 10 7A DB B5  ..0..........z..
+0940: 48 CC 69 9C 43 40 9E 73   B3 D4 FF 8F B5 30 0D 06  H.i.C@.s.....0..
+0950: 09 2A 86 48 86 F7 0D 01   01 05 05 00 30 69 31 0B  .*.H........0i1.
+0960: 30 09 06 03 55 04 06 13   02 55 53 31 0D 30 0B 06  0...U....US1.0..
+0970: 03 55 04 0A 13 04 56 69   73 61 31 2F 30 2D 06 03  .U....Visa1/0-..
+0980: 55 04 0B 13 26 56 69 73   61 20 49 6E 74 65 72 6E  U...&Visa Intern
+0990: 61 74 69 6F 6E 61 6C 20   53 65 72 76 69 63 65 20  ational Service 
+09A0: 41 73 73 6F 63 69 61 74   69 6F 6E 31 1A 30 18 06  Association1.0..
+09B0: 03 55 04 03 13 11 56 69   73 61 20 65 63 6F 6D 6D  .U....Visa ecomm
+09C0: 65 72 63 65 20 51 41 30   1E 17 0D 31 33 30 31 31  erce QA0...13011
+09D0: 32 30 33 33 37 34 39 5A   17 0D 33 33 30 31 31 32  2033749Z..330112
+09E0: 30 33 33 37 34 39 5A 30   69 31 0B 30 09 06 03 55  033749Z0i1.0...U
+09F0: 04 06 13 02 55 53 31 0D   30 0B 06 03 55 04 0A 13  ....US1.0...U...
+0A00: 04 56 69 73 61 31 2F 30   2D 06 03 55 04 0B 13 26  .Visa1/0-..U...&
+0A10: 56 69 73 61 20 49 6E 74   65 72 6E 61 74 69 6F 6E  Visa Internation
+0A20: 61 6C 20 53 65 72 76 69   63 65 20 41 73 73 6F 63  al Service Assoc
+0A30: 69 61 74 69 6F 6E 31 1A   30 18 06 03 55 04 03 13  iation1.0...U...
+0A40: 11 56 69 73 61 20 65 63   6F 6D 6D 65 72 63 65 20  .Visa ecommerce 
+0A50: 51 41 30 82 01 22 30 0D   06 09 2A 86 48 86 F7 0D  QA0.."0...*.H...
+0A60: 01 01 01 05 00 03 82 01   0F 00 30 82 01 0A 02 82  ..........0.....
+0A70: 01 01 00 D9 14 7E 52 A6   A6 7E 76 B5 82 37 66 D0  ......R...v..7f.
+0A80: 4D 3D 63 D8 E2 CE 0A 26   7F C7 55 67 05 0F E4 95  M=c....&..Ug....
+0A90: 89 A3 94 05 68 7C 19 EC   9D B9 B3 7F A0 2C 06 22  ....h........,."
+0AA0: D9 1F 2B 1B D2 88 34 51   99 27 C2 50 82 41 AB 45  ..+...4Q.'.P.A.E
+0AB0: A5 11 0D EE 70 02 DB FC   1F 88 3A B4 70 42 08 AC  ....p.....:.pB..
+0AC0: AB 76 CD D0 86 4B 01 CD   33 1C 8A 72 59 7B A6 6A  .v...K..3..rY..j
+0AD0: 89 2C EE C6 91 BC 3B 1A   DB 0A DB CF F1 2D D6 A9  .,....;......-..
+0AE0: 0C D2 3F E8 1F FB CE AC   37 5A 28 7F 49 F7 9A A4  ..?.....7Z(.I...
+0AF0: 0A AE 13 67 BB 04 73 2E   67 2B 07 C3 92 91 76 7E  ...g..s.g+....v.
+0B00: 89 19 B7 45 0A 28 5B 71   54 77 12 10 F4 84 D7 33  ...E.([qTw.....3
+0B10: 4D D7 19 0D C5 23 69 EE   FA 57 CB 1B CB 4A C0 BF  M....#i..W...J..
+0B20: 5D DA FC 1B B4 C2 83 66   F5 CB 15 D6 16 3A CF D3  ]......f.....:..
+0B30: 5B 80 BF A1 27 24 A4 E7   64 8E 02 D9 47 A1 C3 18  [...'$..d...G...
+0B40: EE 4C 00 9F 4A C4 FF 00   6B F1 0E 17 D6 3E BA C4  .L..J...k....>..
+0B50: B4 0E 93 09 C0 FD AC EA   7D 0E 9C 17 36 24 89 18  ............6$..
+0B60: FC E4 71 45 16 7C 71 94   C5 78 3D 79 88 22 4C 4A  ..qE..q..x=y."LJ
+0B70: 3D DB 87 02 03 01 00 01   A3 81 B9 30 81 B6 30 0F  =..........0..0.
+0B80: 06 03 55 1D 13 01 01 FF   04 05 30 03 01 01 FF 30  ..U.......0....0
+0B90: 74 06 03 55 1D 20 04 6D   30 6B 30 69 06 05 67 81  t..U. .m0k0i..g.
+0BA0: 03 01 01 30 60 30 23 06   08 2B 06 01 05 05 07 02  ...0`0#..+......
+0BB0: 01 16 17 68 74 74 70 3A   2F 2F 77 77 77 2E 76 69  ...http://www.vi
+0BC0: 73 61 2E 63 6F 6D 2F 70   6B 69 30 39 06 08 2B 06  sa.com/pki09..+.
+0BD0: 01 05 05 07 02 02 30 2D   30 18 16 11 52 65 70 6C  ......0-0...Repl
+0BE0: 61 63 65 20 54 68 69 73   20 54 65 78 74 30 03 02  ace This Text0..
+0BF0: 01 01 1A 11 52 65 70 6C   61 63 65 20 54 68 69 73  ....Replace This
+0C00: 20 54 65 78 74 30 0E 06   03 55 1D 0F 01 01 FF 04   Text0...U......
+0C10: 04 03 02 01 06 30 1D 06   03 55 1D 0E 04 16 04 14  .....0...U......
+0C20: 1C 7C 1F 26 9D 40 05 A5   E0 1B 81 DD 40 F1 F7 3C  ...&.@......@..<
+0C30: C5 36 42 33 30 0D 06 09   2A 86 48 86 F7 0D 01 01  .6B30...*.H.....
+0C40: 05 05 00 03 82 01 01 00   9E D4 6D A1 3E C0 00 F9  ..........m.>...
+0C50: 1A 0D A3 47 15 9F 5F 93   79 CF 12 61 D4 01 00 5E  ...G.._.y..a...^
+0C60: EA 0A 72 FD 15 E8 5A BB   8E DE DF A7 D5 18 D8 B3  ..r...Z.........
+0C70: 3A 4C 88 4F D0 07 1A 8A   FA 47 52 C8 6A 12 97 F8  :L.O.....GR.j...
+0C80: 4E A6 A9 04 D8 B3 39 C9   4B 98 57 27 C1 BC 73 43  N.....9.K.W'..sC
+0C90: F4 9B 18 D5 49 C6 FB CA   4C 10 E7 00 58 A9 75 8C  ....I...L...X.u.
+0CA0: D9 B5 CA A6 22 D3 79 85   56 7F 50 2B 15 6A A9 D7  ....".y.V.P+.j..
+0CB0: 2F 46 E9 1D 00 39 A9 CB   8E 6C 0D 44 10 2B 83 2B  /F...9...l.D.+.+
+0CC0: FA 97 54 19 6F B5 0C DC   17 FD 4B 99 74 BA B1 4C  ..T.o.....K.t..L
+0CD0: 2F 4E 84 9F C0 7B F6 59   5E E5 7D F6 22 FF 63 7E  /N.....Y^...".c.
+0CE0: E7 2E E9 C6 88 AC 12 E4   3D 2C 7A 62 AF AA F0 40  ........=,zb...@
+0CF0: AC E3 C3 51 48 E3 7E FC   FA A6 F4 7C 70 D4 7D FF  ...QH.......p...
+0D00: CB 3D AA 2C 6E 33 4C 8E   F1 25 50 C4 49 91 84 5D  .=.,n3L..%P.I..]
+0D10: A7 4B C0 22 57 0F A3 91   79 7D 85 FC 1B 54 77 CA  .K."W...y....Tw.
+0D20: B6 DD D8 D7 65 B5 58 88   87 C4 F5 E6 EB E2 0D F5  ....e.X.........
+0D30: E7 60 65 54 21 D9 D8 6C   8F 76 38 48 B8 B7 87 DB  .`eT!..l.v8H....
+0D40: 55 5B 4F F7 72 10 71 C0                            U[O.r.q.
+main, READ: TLSv1.2 Handshake, length = 3400
+check handshake state: certificate[11]
+update handshake state: certificate[11]
+upcoming handshake states: server_key_exchange[12](optional)
+upcoming handshake states: certificate_request[13](optional)
+upcoming handshake states: server_hello_done[14]
+upcoming handshake states: client certificate[11](optional)
+upcoming handshake states: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+*** Certificate chain
+chain [0] = [
+[
+  Version: V3
+  Subject: C=IN, ST=Maharashtra, L=Mumbai, O=Euronet Services India Pvt. Ltd., OU=Technology, CN=VisaSecureTestSuite-vsts.3dsecure.net
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 17771865808640663962665984673491790520195895690036647331159002045044317613276070858140934146951200118422532634303401809660778736479919663590655732206854622651732720919003440885949366794328139488155090290505043997619597506498316484567801374679516045331225250655898499667830231603155483787680994283364369257640963695681537279866726833069247559262416095765539162276796764313633834374911797566523217985743126977427804054764802368033040522252904850707900290831945306052601575360878898603767989490359093576432672682351320831686633419174516299778110412334126224045549175964070367133394842367684276664375127097152273617869779
+  public exponent: 65537
+  Validity: [From: Fri Nov 19 20:44:32 GST 2021,
+               To: Sat Feb 17 20:44:31 GST 2024]
+  Issuer: CN=Visa eCommerce QA Issuing CA, OU=Visa International Service Association, O=VISA, C=US
+  SerialNumber: [    50009140 4a2e125f dc7dae44 9c8aa6a3]
+
+Certificate Extensions: 8
+[1]: ObjectId: 1.3.6.1.5.5.7.1.1 Criticality=false
+AuthorityInfoAccess [
+  [
+   accessMethod: caIssuers
+   accessLocation: URIName: http://aiaqa.visa.com/eCommQA.cer
+, 
+   accessMethod: ocsp
+   accessLocation: URIName: http://ocspqa.visa.com/ocsp
+]
+]
+
+[2]: ObjectId: 2.5.29.35 Criticality=false
+AuthorityKeyIdentifier [
+KeyIdentifier [
+0000: 78 0D AB 6B 7E 4A CB 4C   D0 82 38 5D 9D 68 A9 79  x..k.J.L..8].h.y
+0010: 55 07 D5 01                                        U...
+]
+]
+
+[3]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:false
+  PathLen: undefined
+]
+
+[4]: ObjectId: 2.5.29.31 Criticality=false
+CRLDistributionPoints [
+  [DistributionPoint:
+     [URIName: http://aiaqa.visa.com/eCommQA.crl]
+]]
+
+[5]: ObjectId: 2.5.29.37 Criticality=false
+ExtendedKeyUsages [
+  clientAuth
+  serverAuth
+]
+
+[6]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  DigitalSignature
+  Key_Encipherment
+]
+
+[7]: ObjectId: 2.5.29.17 Criticality=false
+SubjectAlternativeName [
+  DNSName: VisaSecureTestSuite-vsts.3dsecure.net
+]
+
+[8]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: F5 5B BA 64 D2 8B AC E0   CD 15 33 3A 16 10 63 57  .[.d......3:..cW
+0010: 9C F2 59 9F                                        ..Y.
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: 2C A6 5D A5 44 25 70 BD   90 3A 1B 5B C9 AF 46 37  ,.].D%p..:.[..F7
+0010: 1D 65 57 6F 4C A0 06 C9   DC 51 E7 90 AD 1B 1F 59  .eWoL....Q.....Y
+0020: 2D D7 07 35 38 2C 64 28   21 C5 38 E7 77 0A 07 1E  -..58,d(!.8.w...
+0030: C8 92 8B 4A 8A 3E C9 69   2D 88 3E 8F B4 26 A3 2B  ...J.>.i-.>..&.+
+0040: 7C 7C A3 62 BF 47 B4 F3   2A 4D 33 15 A0 9C A0 2A  ...b.G..*M3....*
+0050: 2B 05 3C C9 AE 41 73 F2   89 2E 5E 26 CC 7F 6E 03  +.<..As...^&..n.
+0060: B1 A0 26 E1 21 C1 0C 41   0D BA 88 D4 CD 85 22 68  ..&.!..A......"h
+0070: 27 7B E3 50 08 6F BE 58   B5 69 AB 98 B6 ED 4F D1  '..P.o.X.i....O.
+0080: C4 9B 6B 68 96 C1 5E BB   7D 41 11 A3 6A D8 03 70  ..kh..^..A..j..p
+0090: CC 26 06 3A 5F D1 42 02   11 39 1E 60 95 AB 1F A5  .&.:_.B..9.`....
+00A0: D0 CB E8 EF 66 64 39 58   58 F4 7D ED 92 B4 70 99  ....fd9XX.....p.
+00B0: 66 63 01 18 4A 71 28 26   CF A5 97 8D 37 F3 64 75  fc..Jq(&....7.du
+00C0: BD 7B 50 13 30 D0 E9 CE   92 14 6D 0D 83 A1 A3 B5  ..P.0.....m.....
+00D0: FE 59 9D 0B D2 48 51 8E   F3 68 E2 3E E9 A7 A8 31  .Y...HQ..h.>...1
+00E0: A7 35 09 CE 4B B1 4C 0C   9C F3 35 B1 4B 31 D3 F1  .5..K.L...5.K1..
+00F0: 91 03 C4 1D BE 7C F6 BC   A3 0E A7 42 B4 03 B8 4D  ...........B...M
+
+]
+chain [1] = [
+[
+  Version: V3
+  Subject: CN=Visa eCommerce QA Issuing CA, OU=Visa International Service Association, O=VISA, C=US
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 19931519634394996769739063335237624228810163428922936371228471575188912616320581053400619081695756181985249384936908925395915665909346553349127775326869381373093852127829622421381273925149524442208656181940106977117441510966214896639042758961880653265569390333769883313054785814020844148865643383651597200005693370001774211718378232714153353444248632831393074641421690540789796612329236687515535872133640449501450892624761284985119921078768652866132043009903540291912818823739623506434496152645061200720118699378429984891869397151273220720181106193048814800110540744261579268407285433553772374623440609594188266809013
+  public exponent: 65537
+  Validity: [From: Fri May 08 20:20:21 GST 2015,
+               To: Tue Jan 11 08:38:22 GST 2033]
+  Issuer: CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US
+  SerialNumber: [    aec12ce4 b87ca4e7 289b4aba 779145fe]
+
+Certificate Extensions: 4
+[1]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[2]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.23.131.1.1]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 17 68 74 74 70 3A 2F   2F 77 77 77 2E 76 69 73  ..http://www.vis
+0010: 61 2E 63 6F 6D 2F 70 6B   69                       a.com/pki
+
+], PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.2
+  qualifier: 0000: 30 2D 30 18 16 11 52 65   70 6C 61 63 65 20 54 68  0-0...Replace Th
+0010: 69 73 20 54 65 78 74 30   03 02 01 01 1A 11 52 65  is Text0......Re
+0020: 70 6C 61 63 65 20 54 68   69 73 20 54 65 78 74     place This Text
+
+]]  ]
+]
+
+[3]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+[4]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 78 0D AB 6B 7E 4A CB 4C   D0 82 38 5D 9D 68 A9 79  x..k.J.L..8].h.y
+0010: 55 07 D5 01                                        U...
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: CB 9E CC 32 10 2B EA AB   E9 E7 67 7B 68 E9 C2 A7  ...2.+....g.h...
+0010: 2D 92 63 C5 26 57 0D FA   A2 A7 AD 99 39 5C B0 E1  -.c.&W......9\..
+0020: B8 82 B2 27 FC EB 6A BE   5A 19 40 89 A8 DD A7 A5  ...'..j.Z.@.....
+0030: A2 77 6E 17 94 2A 95 65   1E 54 D5 0A 95 55 22 16  .wn..*.e.T...U".
+0040: 35 3E 2D 80 F1 D8 E8 16   9D 6B 37 F3 BE C0 7E 96  5>-......k7.....
+0050: 6D 79 9C A2 48 4A D6 A4   A7 38 8F F9 CC CB 50 0F  my..HJ...8....P.
+0060: BE B5 6C EF 92 0A 03 28   74 40 4A ED 7F 9E DA 81  ..l....(t@J.....
+0070: 7C 33 1E 03 7A 85 2A 7A   85 9D A0 61 70 F8 0B D6  .3..z.*z...ap...
+0080: BC 4E 0E F3 68 F9 B6 C8   EF 36 1C 8F F7 7C 6F E7  .N..h....6....o.
+0090: 89 8F DE 44 88 FC AC AC   A4 93 92 0F 07 C7 E6 04  ...D............
+00A0: 8E 8D 62 4E 3E A7 D8 C7   33 08 2F EE DC 39 56 7E  ..bN>...3./..9V.
+00B0: C6 D8 EC 25 85 26 00 37   89 0C BD 46 87 AB FF 6E  ...%.&.7...F...n
+00C0: BB BA CA B2 F7 E0 73 60   6E 7F 8E D4 A6 D2 11 2E  ......s`n.......
+00D0: 5D 9F B2 22 5E F2 FC FC   5C BD 0E DD 85 E6 37 68  ].."^...\.....7h
+00E0: CE B8 3C AF CA 6D CB 83   3E 87 9C F4 8F 62 DF E8  ..<..m..>....b..
+00F0: 6A 3D 66 BD DE D7 F6 8E   05 64 48 BC FE 6D CD C1  j=f......dH..m..
+
+]
+chain [2] = [
+[
+  Version: V3
+  Subject: CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US
+  Signature Algorithm: SHA1withRSA, OID = 1.2.840.113549.1.1.5
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 27403817873810383528839529251238624137687796526128544489688793661716486156602400441214106928100295587243175914209155045409979114637445441154149361872819605974143137842392137026276848382435984722587388747187559960084731187926097195095315559284217826466473675150455272944531177988397391461677715439825580163965842532997250554134245887422968686013581194993690030085298733561392151282171880095814442361159730490315520469891922309331867947643966236466063608516107863625908502760929749164217704136906118914110350392695262920102124896668576849165880740968238547071331334735453851268808571209191229917646225388740897591384967
+  public exponent: 65537
+  Validity: [From: Sat Jan 12 07:37:49 GST 2013,
+               To: Wed Jan 12 07:37:49 GST 2033]
+  Issuer: CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US
+  SerialNumber: [    7adbb548 cc699c43 409e73b3 d4ff8fb5]
+
+Certificate Extensions: 4
+[1]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[2]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.23.131.1.1]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 17 68 74 74 70 3A 2F   2F 77 77 77 2E 76 69 73  ..http://www.vis
+0010: 61 2E 63 6F 6D 2F 70 6B   69                       a.com/pki
+
+], PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.2
+  qualifier: 0000: 30 2D 30 18 16 11 52 65   70 6C 61 63 65 20 54 68  0-0...Replace Th
+0010: 69 73 20 54 65 78 74 30   03 02 01 01 1A 11 52 65  is Text0......Re
+0020: 70 6C 61 63 65 20 54 68   69 73 20 54 65 78 74     place This Text
+
+]]  ]
+]
+
+[3]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+[4]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 1C 7C 1F 26 9D 40 05 A5   E0 1B 81 DD 40 F1 F7 3C  ...&.@......@..<
+0010: C5 36 42 33                                        .6B3
+]
+]
+
+]
+  Algorithm: [SHA1withRSA]
+  Signature:
+0000: 9E D4 6D A1 3E C0 00 F9   1A 0D A3 47 15 9F 5F 93  ..m.>......G.._.
+0010: 79 CF 12 61 D4 01 00 5E   EA 0A 72 FD 15 E8 5A BB  y..a...^..r...Z.
+0020: 8E DE DF A7 D5 18 D8 B3   3A 4C 88 4F D0 07 1A 8A  ........:L.O....
+0030: FA 47 52 C8 6A 12 97 F8   4E A6 A9 04 D8 B3 39 C9  .GR.j...N.....9.
+0040: 4B 98 57 27 C1 BC 73 43   F4 9B 18 D5 49 C6 FB CA  K.W'..sC....I...
+0050: 4C 10 E7 00 58 A9 75 8C   D9 B5 CA A6 22 D3 79 85  L...X.u.....".y.
+0060: 56 7F 50 2B 15 6A A9 D7   2F 46 E9 1D 00 39 A9 CB  V.P+.j../F...9..
+0070: 8E 6C 0D 44 10 2B 83 2B   FA 97 54 19 6F B5 0C DC  .l.D.+.+..T.o...
+0080: 17 FD 4B 99 74 BA B1 4C   2F 4E 84 9F C0 7B F6 59  ..K.t..L/N.....Y
+0090: 5E E5 7D F6 22 FF 63 7E   E7 2E E9 C6 88 AC 12 E4  ^...".c.........
+00A0: 3D 2C 7A 62 AF AA F0 40   AC E3 C3 51 48 E3 7E FC  =,zb...@...QH...
+00B0: FA A6 F4 7C 70 D4 7D FF   CB 3D AA 2C 6E 33 4C 8E  ....p....=.,n3L.
+00C0: F1 25 50 C4 49 91 84 5D   A7 4B C0 22 57 0F A3 91  .%P.I..].K."W...
+00D0: 79 7D 85 FC 1B 54 77 CA   B6 DD D8 D7 65 B5 58 88  y....Tw.....e.X.
+00E0: 87 C4 F5 E6 EB E2 0D F5   E7 60 65 54 21 D9 D8 6C  .........`eT!..l
+00F0: 8F 76 38 48 B8 B7 87 DB   55 5B 4F F7 72 10 71 C0  .v8H....U[O.r.q.
+
+]
+***
+Found trusted certificate:
+[
+[
+  Version: V3
+  Subject: CN=Visa eCommerce QA Issuing CA, OU=Visa International Service Association, O=VISA, C=US
+  Signature Algorithm: SHA256withRSA, OID = 1.2.840.113549.1.1.11
+
+  Key:  Sun RSA public key, 2048 bits
+  modulus: 19931519634394996769739063335237624228810163428922936371228471575188912616320581053400619081695756181985249384936908925395915665909346553349127775326869381373093852127829622421381273925149524442208656181940106977117441510966214896639042758961880653265569390333769883313054785814020844148865643383651597200005693370001774211718378232714153353444248632831393074641421690540789796612329236687515535872133640449501450892624761284985119921078768652866132043009903540291912818823739623506434496152645061200720118699378429984891869397151273220720181106193048814800110540744261579268407285433553772374623440609594188266809013
+  public exponent: 65537
+  Validity: [From: Fri May 08 20:20:21 GST 2015,
+               To: Tue Jan 11 08:38:22 GST 2033]
+  Issuer: CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US
+  SerialNumber: [    aec12ce4 b87ca4e7 289b4aba 779145fe]
+
+Certificate Extensions: 4
+[1]: ObjectId: 2.5.29.19 Criticality=true
+BasicConstraints:[
+  CA:true
+  PathLen:2147483647
+]
+
+[2]: ObjectId: 2.5.29.32 Criticality=false
+CertificatePolicies [
+  [CertificatePolicyId: [2.23.131.1.1]
+[PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.1
+  qualifier: 0000: 16 17 68 74 74 70 3A 2F   2F 77 77 77 2E 76 69 73  ..http://www.vis
+0010: 61 2E 63 6F 6D 2F 70 6B   69                       a.com/pki
+
+], PolicyQualifierInfo: [
+  qualifierID: 1.3.6.1.5.5.7.2.2
+  qualifier: 0000: 30 2D 30 18 16 11 52 65   70 6C 61 63 65 20 54 68  0-0...Replace Th
+0010: 69 73 20 54 65 78 74 30   03 02 01 01 1A 11 52 65  is Text0......Re
+0020: 70 6C 61 63 65 20 54 68   69 73 20 54 65 78 74     place This Text
+
+]]  ]
+]
+
+[3]: ObjectId: 2.5.29.15 Criticality=true
+KeyUsage [
+  Key_CertSign
+  Crl_Sign
+]
+
+[4]: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 78 0D AB 6B 7E 4A CB 4C   D0 82 38 5D 9D 68 A9 79  x..k.J.L..8].h.y
+0010: 55 07 D5 01                                        U...
+]
+]
+
+]
+  Algorithm: [SHA256withRSA]
+  Signature:
+0000: CB 9E CC 32 10 2B EA AB   E9 E7 67 7B 68 E9 C2 A7  ...2.+....g.h...
+0010: 2D 92 63 C5 26 57 0D FA   A2 A7 AD 99 39 5C B0 E1  -.c.&W......9\..
+0020: B8 82 B2 27 FC EB 6A BE   5A 19 40 89 A8 DD A7 A5  ...'..j.Z.@.....
+0030: A2 77 6E 17 94 2A 95 65   1E 54 D5 0A 95 55 22 16  .wn..*.e.T...U".
+0040: 35 3E 2D 80 F1 D8 E8 16   9D 6B 37 F3 BE C0 7E 96  5>-......k7.....
+0050: 6D 79 9C A2 48 4A D6 A4   A7 38 8F F9 CC CB 50 0F  my..HJ...8....P.
+0060: BE B5 6C EF 92 0A 03 28   74 40 4A ED 7F 9E DA 81  ..l....(t@J.....
+0070: 7C 33 1E 03 7A 85 2A 7A   85 9D A0 61 70 F8 0B D6  .3..z.*z...ap...
+0080: BC 4E 0E F3 68 F9 B6 C8   EF 36 1C 8F F7 7C 6F E7  .N..h....6....o.
+0090: 89 8F DE 44 88 FC AC AC   A4 93 92 0F 07 C7 E6 04  ...D............
+00A0: 8E 8D 62 4E 3E A7 D8 C7   33 08 2F EE DC 39 56 7E  ..bN>...3./..9V.
+00B0: C6 D8 EC 25 85 26 00 37   89 0C BD 46 87 AB FF 6E  ...%.&.7...F...n
+00C0: BB BA CA B2 F7 E0 73 60   6E 7F 8E D4 A6 D2 11 2E  ......s`n.......
+00D0: 5D 9F B2 22 5E F2 FC FC   5C BD 0E DD 85 E6 37 68  ].."^...\.....7h
+00E0: CE B8 3C AF CA 6D CB 83   3E 87 9C F4 8F 62 DF E8  ..<..m..>....b..
+00F0: 6A 3D 66 BD DE D7 F6 8E   05 64 48 BC FE 6D CD C1  j=f......dH..m..
+
+]
+[read] MD5 and SHA1 hashes:  len = 3400
+0000: 0B 00 0D 44 00 0D 41 00   04 F8 30 82 04 F4 30 82  ...D..A...0...0.
+0010: 03 DC A0 03 02 01 02 02   10 50 00 91 40 4A 2E 12  .........P..@J..
+0020: 5F DC 7D AE 44 9C 8A A6   A3 30 0D 06 09 2A 86 48  _...D....0...*.H
+0030: 86 F7 0D 01 01 0B 05 00   30 74 31 0B 30 09 06 03  ........0t1.0...
+0040: 55 04 06 13 02 55 53 31   0D 30 0B 06 03 55 04 0A  U....US1.0...U..
+0050: 13 04 56 49 53 41 31 2F   30 2D 06 03 55 04 0B 13  ..VISA1/0-..U...
+0060: 26 56 69 73 61 20 49 6E   74 65 72 6E 61 74 69 6F  &Visa Internatio
+0070: 6E 61 6C 20 53 65 72 76   69 63 65 20 41 73 73 6F  nal Service Asso
+0080: 63 69 61 74 69 6F 6E 31   25 30 23 06 03 55 04 03  ciation1%0#..U..
+0090: 13 1C 56 69 73 61 20 65   43 6F 6D 6D 65 72 63 65  ..Visa eCommerce
+00A0: 20 51 41 20 49 73 73 75   69 6E 67 20 43 41 30 1E   QA Issuing CA0.
+00B0: 17 0D 32 31 31 31 31 39   31 36 34 34 33 32 5A 17  ..211119164432Z.
+00C0: 0D 32 34 30 32 31 37 31   36 34 34 33 31 5A 30 81  .240217164431Z0.
+00D0: A4 31 2E 30 2C 06 03 55   04 03 0C 25 56 69 73 61  .1.0,..U...%Visa
+00E0: 53 65 63 75 72 65 54 65   73 74 53 75 69 74 65 2D  SecureTestSuite-
+00F0: 76 73 74 73 2E 33 64 73   65 63 75 72 65 2E 6E 65  vsts.3dsecure.ne
+0100: 74 31 13 30 11 06 03 55   04 0B 0C 0A 54 65 63 68  t1.0...U....Tech
+0110: 6E 6F 6C 6F 67 79 31 29   30 27 06 03 55 04 0A 0C  nology1)0'..U...
+0120: 20 45 75 72 6F 6E 65 74   20 53 65 72 76 69 63 65   Euronet Service
+0130: 73 20 49 6E 64 69 61 20   50 76 74 2E 20 4C 74 64  s India Pvt. Ltd
+0140: 2E 31 0F 30 0D 06 03 55   04 07 0C 06 4D 75 6D 62  .1.0...U....Mumb
+0150: 61 69 31 14 30 12 06 03   55 04 08 0C 0B 4D 61 68  ai1.0...U....Mah
+0160: 61 72 61 73 68 74 72 61   31 0B 30 09 06 03 55 04  arashtra1.0...U.
+0170: 06 13 02 49 4E 30 82 01   22 30 0D 06 09 2A 86 48  ...IN0.."0...*.H
+0180: 86 F7 0D 01 01 01 05 00   03 82 01 0F 00 30 82 01  .............0..
+0190: 0A 02 82 01 01 00 8C C7   C1 69 1F 91 94 05 79 50  .........i....yP
+01A0: 6B 0D DD 08 D2 DA 29 E9   CE 03 7A 65 E3 61 03 A3  k.....)...ze.a..
+01B0: BB 8E 6D 9B F8 3B 1F 9A   1D A3 13 60 70 38 8F 00  ..m..;.....`p8..
+01C0: 7E 16 1C 67 E2 C1 65 67   86 CB CD 07 75 60 34 E3  ...g..eg....u`4.
+01D0: FF 83 81 B3 D7 42 23 A9   33 96 A2 F2 74 7E 5F 98  .....B#.3...t._.
+01E0: A8 07 0E D3 D2 42 AD 68   24 CE 16 6C BD E9 87 71  .....B.h$..l...q
+01F0: 2E 53 D3 EE 99 F9 D9 9F   C5 6C 8A 9E F6 F3 68 FB  .S.......l....h.
+0200: B3 D1 6A 23 A4 D5 19 A4   E9 AD D0 12 63 04 81 1E  ..j#........c...
+0210: 06 DC 0A 79 57 B8 4D 78   13 9E D4 D2 0C 9A DF B2  ...yW.Mx........
+0220: E2 C0 D2 B5 69 C5 A8 A2   0E D8 92 4B 8A 1C A4 7D  ....i......K....
+0230: 77 0D E4 01 86 89 A9 81   2C 3A 9A 28 C0 DC 77 E2  w.......,:.(..w.
+0240: 76 AD 74 94 32 B1 5D 4F   18 5E 88 BE 16 12 07 74  v.t.2.]O.^.....t
+0250: 35 D8 EC C4 FA 91 FF F4   BF 97 F6 F4 42 8A 7E 67  5...........B..g
+0260: 97 47 36 7E 1C 6A 61 88   4A 93 5E 50 E3 33 BB 5D  .G6..ja.J.^P.3.]
+0270: DF BA 2E A2 FA DF 49 2A   A9 1A 49 D4 13 97 2C 9E  ......I*..I...,.
+0280: 2E 5A 82 A2 5D 3A BC 34   2E 15 E7 46 FA 62 1D B9  .Z..]:.4...F.b..
+0290: 72 50 45 19 5B D3 02 03   01 00 01 A3 82 01 4F 30  rPE.[.........O0
+02A0: 82 01 4B 30 0C 06 03 55   1D 13 01 01 FF 04 02 30  ..K0...U.......0
+02B0: 00 30 1F 06 03 55 1D 23   04 18 30 16 80 14 78 0D  .0...U.#..0...x.
+02C0: AB 6B 7E 4A CB 4C D0 82   38 5D 9D 68 A9 79 55 07  .k.J.L..8].h.yU.
+02D0: D5 01 30 66 06 08 2B 06   01 05 05 07 01 01 04 5A  ..0f..+........Z
+02E0: 30 58 30 2D 06 08 2B 06   01 05 05 07 30 02 86 21  0X0-..+.....0..!
+02F0: 68 74 74 70 3A 2F 2F 61   69 61 71 61 2E 76 69 73  http://aiaqa.vis
+0300: 61 2E 63 6F 6D 2F 65 43   6F 6D 6D 51 41 2E 63 65  a.com/eCommQA.ce
+0310: 72 30 27 06 08 2B 06 01   05 05 07 30 01 86 1B 68  r0'..+.....0...h
+0320: 74 74 70 3A 2F 2F 6F 63   73 70 71 61 2E 76 69 73  ttp://ocspqa.vis
+0330: 61 2E 63 6F 6D 2F 6F 63   73 70 30 30 06 03 55 1D  a.com/ocsp00..U.
+0340: 11 04 29 30 27 82 25 56   69 73 61 53 65 63 75 72  ..)0'.%VisaSecur
+0350: 65 54 65 73 74 53 75 69   74 65 2D 76 73 74 73 2E  eTestSuite-vsts.
+0360: 33 64 73 65 63 75 72 65   2E 6E 65 74 30 1D 06 03  3dsecure.net0...
+0370: 55 1D 25 04 16 30 14 06   08 2B 06 01 05 05 07 03  U.%..0...+......
+0380: 02 06 08 2B 06 01 05 05   07 03 01 30 32 06 03 55  ...+.......02..U
+0390: 1D 1F 04 2B 30 29 30 27   A0 25 A0 23 86 21 68 74  ...+0)0'.%.#.!ht
+03A0: 74 70 3A 2F 2F 61 69 61   71 61 2E 76 69 73 61 2E  tp://aiaqa.visa.
+03B0: 63 6F 6D 2F 65 43 6F 6D   6D 51 41 2E 63 72 6C 30  com/eCommQA.crl0
+03C0: 1D 06 03 55 1D 0E 04 16   04 14 F5 5B BA 64 D2 8B  ...U.......[.d..
+03D0: AC E0 CD 15 33 3A 16 10   63 57 9C F2 59 9F 30 0E  ....3:..cW..Y.0.
+03E0: 06 03 55 1D 0F 01 01 FF   04 04 03 02 05 A0 30 0D  ..U...........0.
+03F0: 06 09 2A 86 48 86 F7 0D   01 01 0B 05 00 03 82 01  ..*.H...........
+0400: 01 00 2C A6 5D A5 44 25   70 BD 90 3A 1B 5B C9 AF  ..,.].D%p..:.[..
+0410: 46 37 1D 65 57 6F 4C A0   06 C9 DC 51 E7 90 AD 1B  F7.eWoL....Q....
+0420: 1F 59 2D D7 07 35 38 2C   64 28 21 C5 38 E7 77 0A  .Y-..58,d(!.8.w.
+0430: 07 1E C8 92 8B 4A 8A 3E   C9 69 2D 88 3E 8F B4 26  .....J.>.i-.>..&
+0440: A3 2B 7C 7C A3 62 BF 47   B4 F3 2A 4D 33 15 A0 9C  .+...b.G..*M3...
+0450: A0 2A 2B 05 3C C9 AE 41   73 F2 89 2E 5E 26 CC 7F  .*+.<..As...^&..
+0460: 6E 03 B1 A0 26 E1 21 C1   0C 41 0D BA 88 D4 CD 85  n...&.!..A......
+0470: 22 68 27 7B E3 50 08 6F   BE 58 B5 69 AB 98 B6 ED  "h'..P.o.X.i....
+0480: 4F D1 C4 9B 6B 68 96 C1   5E BB 7D 41 11 A3 6A D8  O...kh..^..A..j.
+0490: 03 70 CC 26 06 3A 5F D1   42 02 11 39 1E 60 95 AB  .p.&.:_.B..9.`..
+04A0: 1F A5 D0 CB E8 EF 66 64   39 58 58 F4 7D ED 92 B4  ......fd9XX.....
+04B0: 70 99 66 63 01 18 4A 71   28 26 CF A5 97 8D 37 F3  p.fc..Jq(&....7.
+04C0: 64 75 BD 7B 50 13 30 D0   E9 CE 92 14 6D 0D 83 A1  du..P.0.....m...
+04D0: A3 B5 FE 59 9D 0B D2 48   51 8E F3 68 E2 3E E9 A7  ...Y...HQ..h.>..
+04E0: A8 31 A7 35 09 CE 4B B1   4C 0C 9C F3 35 B1 4B 31  .1.5..K.L...5.K1
+04F0: D3 F1 91 03 C4 1D BE 7C   F6 BC A3 0E A7 42 B4 03  .............B..
+0500: B8 4D 00 04 26 30 82 04   22 30 82 03 0A A0 03 02  .M..&0.."0......
+0510: 01 02 02 11 00 AE C1 2C   E4 B8 7C A4 E7 28 9B 4A  .......,.....(.J
+0520: BA 77 91 45 FE 30 0D 06   09 2A 86 48 86 F7 0D 01  .w.E.0...*.H....
+0530: 01 0B 05 00 30 69 31 0B   30 09 06 03 55 04 06 13  ....0i1.0...U...
+0540: 02 55 53 31 0D 30 0B 06   03 55 04 0A 13 04 56 69  .US1.0...U....Vi
+0550: 73 61 31 2F 30 2D 06 03   55 04 0B 13 26 56 69 73  sa1/0-..U...&Vis
+0560: 61 20 49 6E 74 65 72 6E   61 74 69 6F 6E 61 6C 20  a International 
+0570: 53 65 72 76 69 63 65 20   41 73 73 6F 63 69 61 74  Service Associat
+0580: 69 6F 6E 31 1A 30 18 06   03 55 04 03 13 11 56 69  ion1.0...U....Vi
+0590: 73 61 20 65 63 6F 6D 6D   65 72 63 65 20 51 41 30  sa ecommerce QA0
+05A0: 1E 17 0D 31 35 30 35 30   38 31 36 32 30 32 31 5A  ...150508162021Z
+05B0: 17 0D 33 33 30 31 31 31   30 34 33 38 32 32 5A 30  ..330111043822Z0
+05C0: 74 31 0B 30 09 06 03 55   04 06 13 02 55 53 31 0D  t1.0...U....US1.
+05D0: 30 0B 06 03 55 04 0A 13   04 56 49 53 41 31 2F 30  0...U....VISA1/0
+05E0: 2D 06 03 55 04 0B 13 26   56 69 73 61 20 49 6E 74  -..U...&Visa Int
+05F0: 65 72 6E 61 74 69 6F 6E   61 6C 20 53 65 72 76 69  ernational Servi
+0600: 63 65 20 41 73 73 6F 63   69 61 74 69 6F 6E 31 25  ce Association1%
+0610: 30 23 06 03 55 04 03 13   1C 56 69 73 61 20 65 43  0#..U....Visa eC
+0620: 6F 6D 6D 65 72 63 65 20   51 41 20 49 73 73 75 69  ommerce QA Issui
+0630: 6E 67 20 43 41 30 82 01   22 30 0D 06 09 2A 86 48  ng CA0.."0...*.H
+0640: 86 F7 0D 01 01 01 05 00   03 82 01 0F 00 30 82 01  .............0..
+0650: 0A 02 82 01 01 00 9D E3   57 27 CF 43 BB 86 77 19  ........W'.C..w.
+0660: 1D 01 02 28 92 4B 47 9B   D3 8C 5F 82 D8 8C 0A A5  ...(.KG..._.....
+0670: D6 8A BD 01 56 9A 96 B6   30 19 D5 8E 96 47 2A B0  ....V...0....G*.
+0680: 6D 51 E1 5C E7 F0 2B 5D   D8 BF CB D5 A8 71 85 C4  mQ.\..+].....q..
+0690: A7 60 E8 F3 EF 0B 57 76   50 F8 8E 9C B2 2F 16 D2  .`....WvP..../..
+06A0: 27 2F 2D 4D 7E EE 84 66   2D A6 F9 16 52 A1 F6 5E  '/-M...f-...R..^
+06B0: C8 E5 CE AB 09 D0 33 B8   8E CF 34 FA B6 FA B1 6F  ......3...4....o
+06C0: 70 AF DB 0A CC C5 23 E6   85 DC 0E 4C 4A 02 DB 78  p.....#....LJ..x
+06D0: D9 31 8C ED AC 9F 49 8A   6E 0B A9 BB 34 8C EF 52  .1....I.n...4..R
+06E0: B9 5C 2C FA 15 4B 76 1F   AC 65 64 5E D8 F6 F8 77  .\,..Kv..ed^...w
+06F0: 08 0E 38 E5 39 0C C0 65   B2 E3 A1 56 CC D5 D4 2A  ..8.9..e...V...*
+0700: 1D 1B C3 17 32 D2 1B 99   DD 9C 08 F9 5E 04 7B C6  ....2.......^...
+0710: 17 40 8F B5 30 4E C5 C6   5B 2D DA 63 44 F2 FD D8  .@..0N..[-.cD...
+0720: A3 45 87 22 45 3C A5 C9   6C 2D A6 C6 25 F7 18 0E  .E."E<..l-..%...
+0730: 9F AA C1 BD FE FA BE 67   08 0C EF D6 C4 96 9A 66  .......g.......f
+0740: D0 0A 68 10 35 11 22 56   DB 82 0E E9 DB EF 3A 3C  ..h.5."V......:<
+0750: D0 12 CA 09 26 B5 02 03   01 00 01 A3 81 B9 30 81  ....&.........0.
+0760: B6 30 0F 06 03 55 1D 13   01 01 FF 04 05 30 03 01  .0...U.......0..
+0770: 01 FF 30 74 06 03 55 1D   20 04 6D 30 6B 30 69 06  ..0t..U. .m0k0i.
+0780: 05 67 81 03 01 01 30 60   30 23 06 08 2B 06 01 05  .g....0`0#..+...
+0790: 05 07 02 01 16 17 68 74   74 70 3A 2F 2F 77 77 77  ......http://www
+07A0: 2E 76 69 73 61 2E 63 6F   6D 2F 70 6B 69 30 39 06  .visa.com/pki09.
+07B0: 08 2B 06 01 05 05 07 02   02 30 2D 30 18 16 11 52  .+.......0-0...R
+07C0: 65 70 6C 61 63 65 20 54   68 69 73 20 54 65 78 74  eplace This Text
+07D0: 30 03 02 01 01 1A 11 52   65 70 6C 61 63 65 20 54  0......Replace T
+07E0: 68 69 73 20 54 65 78 74   30 0E 06 03 55 1D 0F 01  his Text0...U...
+07F0: 01 FF 04 04 03 02 01 06   30 1D 06 03 55 1D 0E 04  ........0...U...
+0800: 16 04 14 78 0D AB 6B 7E   4A CB 4C D0 82 38 5D 9D  ...x..k.J.L..8].
+0810: 68 A9 79 55 07 D5 01 30   0D 06 09 2A 86 48 86 F7  h.yU...0...*.H..
+0820: 0D 01 01 0B 05 00 03 82   01 01 00 CB 9E CC 32 10  ..............2.
+0830: 2B EA AB E9 E7 67 7B 68   E9 C2 A7 2D 92 63 C5 26  +....g.h...-.c.&
+0840: 57 0D FA A2 A7 AD 99 39   5C B0 E1 B8 82 B2 27 FC  W......9\.....'.
+0850: EB 6A BE 5A 19 40 89 A8   DD A7 A5 A2 77 6E 17 94  .j.Z.@......wn..
+0860: 2A 95 65 1E 54 D5 0A 95   55 22 16 35 3E 2D 80 F1  *.e.T...U".5>-..
+0870: D8 E8 16 9D 6B 37 F3 BE   C0 7E 96 6D 79 9C A2 48  ....k7.....my..H
+0880: 4A D6 A4 A7 38 8F F9 CC   CB 50 0F BE B5 6C EF 92  J...8....P...l..
+0890: 0A 03 28 74 40 4A ED 7F   9E DA 81 7C 33 1E 03 7A  ..(t@J......3..z
+08A0: 85 2A 7A 85 9D A0 61 70   F8 0B D6 BC 4E 0E F3 68  .*z...ap....N..h
+08B0: F9 B6 C8 EF 36 1C 8F F7   7C 6F E7 89 8F DE 44 88  ....6....o....D.
+08C0: FC AC AC A4 93 92 0F 07   C7 E6 04 8E 8D 62 4E 3E  .............bN>
+08D0: A7 D8 C7 33 08 2F EE DC   39 56 7E C6 D8 EC 25 85  ...3./..9V....%.
+08E0: 26 00 37 89 0C BD 46 87   AB FF 6E BB BA CA B2 F7  &.7...F...n.....
+08F0: E0 73 60 6E 7F 8E D4 A6   D2 11 2E 5D 9F B2 22 5E  .s`n.......].."^
+0900: F2 FC FC 5C BD 0E DD 85   E6 37 68 CE B8 3C AF CA  ...\.....7h..<..
+0910: 6D CB 83 3E 87 9C F4 8F   62 DF E8 6A 3D 66 BD DE  m..>....b..j=f..
+0920: D7 F6 8E 05 64 48 BC FE   6D CD C1 00 04 1A 30 82  ....dH..m.....0.
+0930: 04 16 30 82 02 FE A0 03   02 01 02 02 10 7A DB B5  ..0..........z..
+0940: 48 CC 69 9C 43 40 9E 73   B3 D4 FF 8F B5 30 0D 06  H.i.C@.s.....0..
+0950: 09 2A 86 48 86 F7 0D 01   01 05 05 00 30 69 31 0B  .*.H........0i1.
+0960: 30 09 06 03 55 04 06 13   02 55 53 31 0D 30 0B 06  0...U....US1.0..
+0970: 03 55 04 0A 13 04 56 69   73 61 31 2F 30 2D 06 03  .U....Visa1/0-..
+0980: 55 04 0B 13 26 56 69 73   61 20 49 6E 74 65 72 6E  U...&Visa Intern
+0990: 61 74 69 6F 6E 61 6C 20   53 65 72 76 69 63 65 20  ational Service 
+09A0: 41 73 73 6F 63 69 61 74   69 6F 6E 31 1A 30 18 06  Association1.0..
+09B0: 03 55 04 03 13 11 56 69   73 61 20 65 63 6F 6D 6D  .U....Visa ecomm
+09C0: 65 72 63 65 20 51 41 30   1E 17 0D 31 33 30 31 31  erce QA0...13011
+09D0: 32 30 33 33 37 34 39 5A   17 0D 33 33 30 31 31 32  2033749Z..330112
+09E0: 30 33 33 37 34 39 5A 30   69 31 0B 30 09 06 03 55  033749Z0i1.0...U
+09F0: 04 06 13 02 55 53 31 0D   30 0B 06 03 55 04 0A 13  ....US1.0...U...
+0A00: 04 56 69 73 61 31 2F 30   2D 06 03 55 04 0B 13 26  .Visa1/0-..U...&
+0A10: 56 69 73 61 20 49 6E 74   65 72 6E 61 74 69 6F 6E  Visa Internation
+0A20: 61 6C 20 53 65 72 76 69   63 65 20 41 73 73 6F 63  al Service Assoc
+0A30: 69 61 74 69 6F 6E 31 1A   30 18 06 03 55 04 03 13  iation1.0...U...
+0A40: 11 56 69 73 61 20 65 63   6F 6D 6D 65 72 63 65 20  .Visa ecommerce 
+0A50: 51 41 30 82 01 22 30 0D   06 09 2A 86 48 86 F7 0D  QA0.."0...*.H...
+0A60: 01 01 01 05 00 03 82 01   0F 00 30 82 01 0A 02 82  ..........0.....
+0A70: 01 01 00 D9 14 7E 52 A6   A6 7E 76 B5 82 37 66 D0  ......R...v..7f.
+0A80: 4D 3D 63 D8 E2 CE 0A 26   7F C7 55 67 05 0F E4 95  M=c....&..Ug....
+0A90: 89 A3 94 05 68 7C 19 EC   9D B9 B3 7F A0 2C 06 22  ....h........,."
+0AA0: D9 1F 2B 1B D2 88 34 51   99 27 C2 50 82 41 AB 45  ..+...4Q.'.P.A.E
+0AB0: A5 11 0D EE 70 02 DB FC   1F 88 3A B4 70 42 08 AC  ....p.....:.pB..
+0AC0: AB 76 CD D0 86 4B 01 CD   33 1C 8A 72 59 7B A6 6A  .v...K..3..rY..j
+0AD0: 89 2C EE C6 91 BC 3B 1A   DB 0A DB CF F1 2D D6 A9  .,....;......-..
+0AE0: 0C D2 3F E8 1F FB CE AC   37 5A 28 7F 49 F7 9A A4  ..?.....7Z(.I...
+0AF0: 0A AE 13 67 BB 04 73 2E   67 2B 07 C3 92 91 76 7E  ...g..s.g+....v.
+0B00: 89 19 B7 45 0A 28 5B 71   54 77 12 10 F4 84 D7 33  ...E.([qTw.....3
+0B10: 4D D7 19 0D C5 23 69 EE   FA 57 CB 1B CB 4A C0 BF  M....#i..W...J..
+0B20: 5D DA FC 1B B4 C2 83 66   F5 CB 15 D6 16 3A CF D3  ]......f.....:..
+0B30: 5B 80 BF A1 27 24 A4 E7   64 8E 02 D9 47 A1 C3 18  [...'$..d...G...
+0B40: EE 4C 00 9F 4A C4 FF 00   6B F1 0E 17 D6 3E BA C4  .L..J...k....>..
+0B50: B4 0E 93 09 C0 FD AC EA   7D 0E 9C 17 36 24 89 18  ............6$..
+0B60: FC E4 71 45 16 7C 71 94   C5 78 3D 79 88 22 4C 4A  ..qE..q..x=y."LJ
+0B70: 3D DB 87 02 03 01 00 01   A3 81 B9 30 81 B6 30 0F  =..........0..0.
+0B80: 06 03 55 1D 13 01 01 FF   04 05 30 03 01 01 FF 30  ..U.......0....0
+0B90: 74 06 03 55 1D 20 04 6D   30 6B 30 69 06 05 67 81  t..U. .m0k0i..g.
+0BA0: 03 01 01 30 60 30 23 06   08 2B 06 01 05 05 07 02  ...0`0#..+......
+0BB0: 01 16 17 68 74 74 70 3A   2F 2F 77 77 77 2E 76 69  ...http://www.vi
+0BC0: 73 61 2E 63 6F 6D 2F 70   6B 69 30 39 06 08 2B 06  sa.com/pki09..+.
+0BD0: 01 05 05 07 02 02 30 2D   30 18 16 11 52 65 70 6C  ......0-0...Repl
+0BE0: 61 63 65 20 54 68 69 73   20 54 65 78 74 30 03 02  ace This Text0..
+0BF0: 01 01 1A 11 52 65 70 6C   61 63 65 20 54 68 69 73  ....Replace This
+0C00: 20 54 65 78 74 30 0E 06   03 55 1D 0F 01 01 FF 04   Text0...U......
+0C10: 04 03 02 01 06 30 1D 06   03 55 1D 0E 04 16 04 14  .....0...U......
+0C20: 1C 7C 1F 26 9D 40 05 A5   E0 1B 81 DD 40 F1 F7 3C  ...&.@......@..<
+0C30: C5 36 42 33 30 0D 06 09   2A 86 48 86 F7 0D 01 01  .6B30...*.H.....
+0C40: 05 05 00 03 82 01 01 00   9E D4 6D A1 3E C0 00 F9  ..........m.>...
+0C50: 1A 0D A3 47 15 9F 5F 93   79 CF 12 61 D4 01 00 5E  ...G.._.y..a...^
+0C60: EA 0A 72 FD 15 E8 5A BB   8E DE DF A7 D5 18 D8 B3  ..r...Z.........
+0C70: 3A 4C 88 4F D0 07 1A 8A   FA 47 52 C8 6A 12 97 F8  :L.O.....GR.j...
+0C80: 4E A6 A9 04 D8 B3 39 C9   4B 98 57 27 C1 BC 73 43  N.....9.K.W'..sC
+0C90: F4 9B 18 D5 49 C6 FB CA   4C 10 E7 00 58 A9 75 8C  ....I...L...X.u.
+0CA0: D9 B5 CA A6 22 D3 79 85   56 7F 50 2B 15 6A A9 D7  ....".y.V.P+.j..
+0CB0: 2F 46 E9 1D 00 39 A9 CB   8E 6C 0D 44 10 2B 83 2B  /F...9...l.D.+.+
+0CC0: FA 97 54 19 6F B5 0C DC   17 FD 4B 99 74 BA B1 4C  ..T.o.....K.t..L
+0CD0: 2F 4E 84 9F C0 7B F6 59   5E E5 7D F6 22 FF 63 7E  /N.....Y^...".c.
+0CE0: E7 2E E9 C6 88 AC 12 E4   3D 2C 7A 62 AF AA F0 40  ........=,zb...@
+0CF0: AC E3 C3 51 48 E3 7E FC   FA A6 F4 7C 70 D4 7D FF  ...QH.......p...
+0D00: CB 3D AA 2C 6E 33 4C 8E   F1 25 50 C4 49 91 84 5D  .=.,n3L..%P.I..]
+0D10: A7 4B C0 22 57 0F A3 91   79 7D 85 FC 1B 54 77 CA  .K."W...y....Tw.
+0D20: B6 DD D8 D7 65 B5 58 88   87 C4 F5 E6 EB E2 0D F5  ....e.X.........
+0D30: E7 60 65 54 21 D9 D8 6C   8F 76 38 48 B8 B7 87 DB  .`eT!..l.v8H....
+0D40: 55 5B 4F F7 72 10 71 C0                            U[O.r.q.
+[Raw read]: length = 5
+0000: 16 03 03 01 4D                                     ....M
+[Raw read]: length = 333
+0000: 0C 00 01 49 03 00 17 41   04 4A 46 62 76 A9 FE 96  ...I...A.JFbv...
+0010: 70 EB 9E 13 86 BA 6C 96   BC 8D 18 D9 31 61 3E 75  p.....l.....1a>u
+0020: 37 F5 22 53 89 B8 C2 61   C3 72 F1 2D CB B9 9B 27  7."S...a.r.-...'
+0030: 64 76 CE 15 56 5F B3 AC   90 7E 76 6E 5B 52 C0 55  dv..V_....vn[R.U
+0040: C8 55 20 60 A5 6E A1 9A   B2 04 01 01 00 33 D6 42  .U `.n.......3.B
+0050: 67 E5 E8 6F BE EF CF 7E   45 4C 0E 1A 52 83 14 7D  g..o....EL..R...
+0060: 1D 24 9B 35 4B 58 F9 CA   9B 91 11 CC 07 26 90 02  .$.5KX.......&..
+0070: 22 3C F3 26 E2 90 0E 66   03 84 EF FF 4F ED DA 01  "<.&...f....O...
+0080: 6D D8 57 5A CE 74 35 9A   C5 85 43 B6 D9 94 53 A6  m.WZ.t5...C...S.
+0090: 7B 5F D4 C0 B3 57 1E 16   70 2D D1 DF 4E D6 E2 72  ._...W..p-..N..r
+00A0: 8A C0 10 47 02 D4 F1 E6   65 2C 02 C7 27 B4 AD AC  ...G....e,..'...
+00B0: 45 B9 E3 9A 66 29 C1 17   6D 0F 40 65 87 1E 10 68  E...f)..m.@e...h
+00C0: 15 1F 76 0B B8 6F 45 64   90 24 98 E4 40 FB 60 2C  ..v..oEd.$..@.`,
+00D0: 3F A2 23 8E 7A 13 D3 CB   56 06 A7 0F 2A B6 08 ED  ?.#.z...V...*...
+00E0: 51 F7 85 BC F8 8E 42 E3   B1 BE E7 A2 8B 4C 70 41  Q.....B......LpA
+00F0: D4 B4 9C 6D DA 0F 53 7A   2B DB 42 24 F9 DE 7E 2E  ...m..Sz+.B$....
+0100: 3E 16 2E 9E BD 87 15 46   B6 A9 C9 87 C1 BA FB 0A  >......F........
+0110: 35 BA 9C 55 18 25 76 45   2B 0C FB C8 7E 46 2C 93  5..U.%vE+....F,.
+0120: BD BE 24 70 24 14 33 AD   97 5E 33 BA A2 08 CE D5  ..$p$.3..^3.....
+0130: E2 09 BC DF ED 46 BE 00   74 CB 25 2E 39 1D 3A AA  .....F..t.%.9.:.
+0140: 81 CA EB E6 DF EC 67 09   ED C3 6B 68 E2           ......g...kh.
+main, READ: TLSv1.2 Handshake, length = 333
+check handshake state: server_key_exchange[12]
+update handshake state: server_key_exchange[12]
+upcoming handshake states: certificate_request[13](optional)
+upcoming handshake states: server_hello_done[14]
+upcoming handshake states: client certificate[11](optional)
+upcoming handshake states: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+*** ECDH ServerKeyExchange
+Signature Algorithm SHA256withRSA
+Server key: Sun EC public key, 256 bits
+  public x coord: 33595509660014400422618901336153970176924158958364607187044592538417816035779
+  public y coord: 51989790952105338466425108197827155730882174277262548701441239247073595988658
+  parameters: secp256r1 [NIST P-256, X9.62 prime256v1] (1.2.840.10045.3.1.7)
+[read] MD5 and SHA1 hashes:  len = 333
+0000: 0C 00 01 49 03 00 17 41   04 4A 46 62 76 A9 FE 96  ...I...A.JFbv...
+0010: 70 EB 9E 13 86 BA 6C 96   BC 8D 18 D9 31 61 3E 75  p.....l.....1a>u
+0020: 37 F5 22 53 89 B8 C2 61   C3 72 F1 2D CB B9 9B 27  7."S...a.r.-...'
+0030: 64 76 CE 15 56 5F B3 AC   90 7E 76 6E 5B 52 C0 55  dv..V_....vn[R.U
+0040: C8 55 20 60 A5 6E A1 9A   B2 04 01 01 00 33 D6 42  .U `.n.......3.B
+0050: 67 E5 E8 6F BE EF CF 7E   45 4C 0E 1A 52 83 14 7D  g..o....EL..R...
+0060: 1D 24 9B 35 4B 58 F9 CA   9B 91 11 CC 07 26 90 02  .$.5KX.......&..
+0070: 22 3C F3 26 E2 90 0E 66   03 84 EF FF 4F ED DA 01  "<.&...f....O...
+0080: 6D D8 57 5A CE 74 35 9A   C5 85 43 B6 D9 94 53 A6  m.WZ.t5...C...S.
+0090: 7B 5F D4 C0 B3 57 1E 16   70 2D D1 DF 4E D6 E2 72  ._...W..p-..N..r
+00A0: 8A C0 10 47 02 D4 F1 E6   65 2C 02 C7 27 B4 AD AC  ...G....e,..'...
+00B0: 45 B9 E3 9A 66 29 C1 17   6D 0F 40 65 87 1E 10 68  E...f)..m.@e...h
+00C0: 15 1F 76 0B B8 6F 45 64   90 24 98 E4 40 FB 60 2C  ..v..oEd.$..@.`,
+00D0: 3F A2 23 8E 7A 13 D3 CB   56 06 A7 0F 2A B6 08 ED  ?.#.z...V...*...
+00E0: 51 F7 85 BC F8 8E 42 E3   B1 BE E7 A2 8B 4C 70 41  Q.....B......LpA
+00F0: D4 B4 9C 6D DA 0F 53 7A   2B DB 42 24 F9 DE 7E 2E  ...m..Sz+.B$....
+0100: 3E 16 2E 9E BD 87 15 46   B6 A9 C9 87 C1 BA FB 0A  >......F........
+0110: 35 BA 9C 55 18 25 76 45   2B 0C FB C8 7E 46 2C 93  5..U.%vE+....F,.
+0120: BD BE 24 70 24 14 33 AD   97 5E 33 BA A2 08 CE D5  ..$p$.3..^3.....
+0130: E2 09 BC DF ED 46 BE 00   74 CB 25 2E 39 1D 3A AA  .....F..t.%.9.:.
+0140: 81 CA EB E6 DF EC 67 09   ED C3 6B 68 E2           ......g...kh.
+[Raw read]: length = 5
+0000: 16 03 03 01 BF                                     .....
+[Raw read]: length = 447
+0000: 0D 00 01 BB 03 01 02 40   00 18 04 01 04 02 04 03  .......@........
+0010: 05 01 05 02 05 03 06 01   06 02 06 03 02 01 02 02  ................
+0020: 02 03 01 9B 00 76 30 74   31 0B 30 09 06 03 55 04  .....v0t1.0...U.
+0030: 06 13 02 55 53 31 0D 30   0B 06 03 55 04 0A 13 04  ...US1.0...U....
+0040: 56 49 53 41 31 2F 30 2D   06 03 55 04 0B 13 26 56  VISA1/0-..U...&V
+0050: 69 73 61 20 49 6E 74 65   72 6E 61 74 69 6F 6E 61  isa Internationa
+0060: 6C 20 53 65 72 76 69 63   65 20 41 73 73 6F 63 69  l Service Associ
+0070: 61 74 69 6F 6E 31 25 30   23 06 03 55 04 03 13 1C  ation1%0#..U....
+0080: 56 69 73 61 20 65 43 6F   6D 6D 65 72 63 65 20 51  Visa eCommerce Q
+0090: 41 20 49 73 73 75 69 6E   67 20 43 41 00 6B 30 69  A Issuing CA.k0i
+00A0: 31 0B 30 09 06 03 55 04   06 13 02 55 53 31 0D 30  1.0...U....US1.0
+00B0: 0B 06 03 55 04 0A 13 04   56 69 73 61 31 2F 30 2D  ...U....Visa1/0-
+00C0: 06 03 55 04 0B 13 26 56   69 73 61 20 49 6E 74 65  ..U...&Visa Inte
+00D0: 72 6E 61 74 69 6F 6E 61   6C 20 53 65 72 76 69 63  rnational Servic
+00E0: 65 20 41 73 73 6F 63 69   61 74 69 6F 6E 31 1A 30  e Association1.0
+00F0: 18 06 03 55 04 03 13 11   56 69 73 61 20 65 63 6F  ...U....Visa eco
+0100: 6D 6D 65 72 63 65 20 51   41 00 5C 30 5A 31 0B 30  mmerce QA.\0Z1.0
+0110: 09 06 03 55 04 06 13 02   55 53 31 0D 30 0B 06 03  ...U....US1.0...
+0120: 55 04 0A 0C 04 56 69 73   61 31 16 30 14 06 03 55  U....Visa1.0...U
+0130: 04 0B 0C 0D 43 79 62 65   72 73 65 63 75 72 69 74  ....Cybersecurit
+0140: 79 31 24 30 22 06 03 55   04 03 0C 1B 54 65 73 74  y1$0"..U....Test
+0150: 20 56 69 73 61 20 45 43   43 20 49 73 73 75 69 6E   Visa ECC Issuin
+0160: 67 20 51 41 20 43 41 00   56 30 54 31 1E 30 1C 06  g QA CA.V0T1.0..
+0170: 03 55 04 03 0C 15 54 65   73 74 20 56 69 73 61 20  .U....Test Visa 
+0180: 45 43 43 20 52 6F 6F 74   20 51 41 31 16 30 14 06  ECC Root QA1.0..
+0190: 03 55 04 0B 0C 0D 43 79   62 65 72 73 65 63 75 72  .U....Cybersecur
+01A0: 69 74 79 31 0D 30 0B 06   03 55 04 0A 0C 04 56 69  ity1.0...U....Vi
+01B0: 73 61 31 0B 30 09 06 03   55 04 06 13 02 55 53     sa1.0...U....US
+main, READ: TLSv1.2 Handshake, length = 447
+check handshake state: unknown[13]
+*** CertificateRequest
+Cert Types: RSA, DSS, ECDSA
+Supported Signature Algorithms: SHA256withRSA, SHA256withDSA, SHA256withECDSA, SHA384withRSA, Unknown (hash:0x5, signature:0x2), SHA384withECDSA, SHA512withRSA, Unknown (hash:0x6, signature:0x2), SHA512withECDSA, SHA1withRSA, SHA1withDSA, SHA1withECDSA
+Cert Authorities:
+<CN=Visa eCommerce QA Issuing CA, OU=Visa International Service Association, O=VISA, C=US>
+<CN=Visa ecommerce QA, OU=Visa International Service Association, O=Visa, C=US>
+<CN=Test Visa ECC Issuing QA CA, OU=Cybersecurity, O=Visa, C=US>
+<C=US, O=Visa, OU=Cybersecurity, CN=Test Visa ECC Root QA>
+update handshake state: unknown[13]
+upcoming handshake states: server_hello_done[14]
+upcoming handshake states: client certificate[11](optional)
+upcoming handshake states: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+[read] MD5 and SHA1 hashes:  len = 447
+0000: 0D 00 01 BB 03 01 02 40   00 18 04 01 04 02 04 03  .......@........
+0010: 05 01 05 02 05 03 06 01   06 02 06 03 02 01 02 02  ................
+0020: 02 03 01 9B 00 76 30 74   31 0B 30 09 06 03 55 04  .....v0t1.0...U.
+0030: 06 13 02 55 53 31 0D 30   0B 06 03 55 04 0A 13 04  ...US1.0...U....
+0040: 56 49 53 41 31 2F 30 2D   06 03 55 04 0B 13 26 56  VISA1/0-..U...&V
+0050: 69 73 61 20 49 6E 74 65   72 6E 61 74 69 6F 6E 61  isa Internationa
+0060: 6C 20 53 65 72 76 69 63   65 20 41 73 73 6F 63 69  l Service Associ
+0070: 61 74 69 6F 6E 31 25 30   23 06 03 55 04 03 13 1C  ation1%0#..U....
+0080: 56 69 73 61 20 65 43 6F   6D 6D 65 72 63 65 20 51  Visa eCommerce Q
+0090: 41 20 49 73 73 75 69 6E   67 20 43 41 00 6B 30 69  A Issuing CA.k0i
+00A0: 31 0B 30 09 06 03 55 04   06 13 02 55 53 31 0D 30  1.0...U....US1.0
+00B0: 0B 06 03 55 04 0A 13 04   56 69 73 61 31 2F 30 2D  ...U....Visa1/0-
+00C0: 06 03 55 04 0B 13 26 56   69 73 61 20 49 6E 74 65  ..U...&Visa Inte
+00D0: 72 6E 61 74 69 6F 6E 61   6C 20 53 65 72 76 69 63  rnational Servic
+00E0: 65 20 41 73 73 6F 63 69   61 74 69 6F 6E 31 1A 30  e Association1.0
+00F0: 18 06 03 55 04 03 13 11   56 69 73 61 20 65 63 6F  ...U....Visa eco
+0100: 6D 6D 65 72 63 65 20 51   41 00 5C 30 5A 31 0B 30  mmerce QA.\0Z1.0
+0110: 09 06 03 55 04 06 13 02   55 53 31 0D 30 0B 06 03  ...U....US1.0...
+0120: 55 04 0A 0C 04 56 69 73   61 31 16 30 14 06 03 55  U....Visa1.0...U
+0130: 04 0B 0C 0D 43 79 62 65   72 73 65 63 75 72 69 74  ....Cybersecurit
+0140: 79 31 24 30 22 06 03 55   04 03 0C 1B 54 65 73 74  y1$0"..U....Test
+0150: 20 56 69 73 61 20 45 43   43 20 49 73 73 75 69 6E   Visa ECC Issuin
+0160: 67 20 51 41 20 43 41 00   56 30 54 31 1E 30 1C 06  g QA CA.V0T1.0..
+0170: 03 55 04 03 0C 15 54 65   73 74 20 56 69 73 61 20  .U....Test Visa 
+0180: 45 43 43 20 52 6F 6F 74   20 51 41 31 16 30 14 06  ECC Root QA1.0..
+0190: 03 55 04 0B 0C 0D 43 79   62 65 72 73 65 63 75 72  .U....Cybersecur
+01A0: 69 74 79 31 0D 30 0B 06   03 55 04 0A 0C 04 56 69  ity1.0...U....Vi
+01B0: 73 61 31 0B 30 09 06 03   55 04 06 13 02 55 53     sa1.0...U....US
+[Raw read]: length = 5
+0000: 16 03 03 00 04                                     .....
+[Raw read]: length = 4
+0000: 0E 00 00 00                                        ....
+main, READ: TLSv1.2 Handshake, length = 4
+check handshake state: server_hello_done[14]
+update handshake state: server_hello_done[14]
+upcoming handshake states: client certificate[11](optional)
+upcoming handshake states: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+*** ServerHelloDone
+[read] MD5 and SHA1 hashes:  len = 4
+0000: 0E 00 00 00                                        ....
+Warning: no suitable certificate found - continuing without client authentication
+*** Certificate chain
+<Empty>
+***
+update handshake state: certificate[11]
+upcoming handshake states: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+*** ECDHClientKeyExchange
+ECDH Public value:  { 4, 165, 158, 200, 207, 2, 229, 16, 83, 67, 113, 34, 232, 191, 175, 125, 195, 210, 252, 124, 51, 176, 93, 161, 105, 126, 35, 232, 212, 216, 187, 21, 11, 103, 224, 220, 59, 225, 117, 186, 142, 252, 167, 77, 138, 47, 186, 182, 117, 76, 195, 28, 76, 233, 24, 189, 75, 167, 113, 108, 115, 180, 36, 155, 114 }
+update handshake state: client_key_exchange[16]
+upcoming handshake states: certificate_verify[15](optional)
+upcoming handshake states: client change_cipher_spec[-1]
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+[write] MD5 and SHA1 hashes:  len = 77
+0000: 0B 00 00 03 00 00 00 10   00 00 42 41 04 A5 9E C8  ..........BA....
+0010: CF 02 E5 10 53 43 71 22   E8 BF AF 7D C3 D2 FC 7C  ....SCq"........
+0020: 33 B0 5D A1 69 7E 23 E8   D4 D8 BB 15 0B 67 E0 DC  3.].i.#......g..
+0030: 3B E1 75 BA 8E FC A7 4D   8A 2F BA B6 75 4C C3 1C  ;.u....M./..uL..
+0040: 4C E9 18 BD 4B A7 71 6C   73 B4 24 9B 72           L...K.qls.$.r
+main, WRITE: TLSv1.2 Handshake, length = 77
+[Raw write]: length = 82
+0000: 16 03 03 00 4D 0B 00 00   03 00 00 00 10 00 00 42  ....M..........B
+0010: 41 04 A5 9E C8 CF 02 E5   10 53 43 71 22 E8 BF AF  A........SCq"...
+0020: 7D C3 D2 FC 7C 33 B0 5D   A1 69 7E 23 E8 D4 D8 BB  .....3.].i.#....
+0030: 15 0B 67 E0 DC 3B E1 75   BA 8E FC A7 4D 8A 2F BA  ..g..;.u....M./.
+0040: B6 75 4C C3 1C 4C E9 18   BD 4B A7 71 6C 73 B4 24  .uL..L...K.qls.$
+0050: 9B 72                                              .r
+SESSION KEYGEN:
+PreMaster Secret:
+0000: FB 34 0D 64 BF EF 41 27   B0 3E ED A3 30 5E 1A 9F  .4.d..A'.>..0^..
+0010: F9 54 B2 67 8A E0 D3 CE   87 8D 1A CD C1 A5 B3 FD  .T.g............
+CONNECTION KEYGEN:
+Client Nonce:
+0000: 62 29 5F 64 8F 1A B4 9C   73 6C 1E 1C 61 FC 64 C5  b)_d....sl..a.d.
+0010: 05 D6 45 B7 2B 48 54 37   B7 01 27 FB 75 26 1E 75  ..E.+HT7..'.u&.u
+Server Nonce:
+0000: 3E F9 C1 07 82 0B 39 CC   E6 FE D6 85 6C AC 49 D4  >.....9.....l.I.
+0010: A8 27 7E F6 49 58 08 2C   82 99 BD 77 90 A9 63 7A  .'..IX.,...w..cz
+Master Secret:
+0000: 8D F8 BD 35 77 7D 2A 02   CF 93 1C 37 88 F9 74 F1  ...5w.*....7..t.
+0010: 6C 17 F1 2A A9 C3 89 55   3F 8D C8 FA 40 C7 CE 4D  l..*...U?...@..M
+0020: A1 DA 90 8E 18 3B 71 54   21 72 46 00 28 2B 26 FA  .....;qT!rF.(+&.
+... no MAC keys used for this cipher
+Client write key:
+0000: ED 23 91 84 23 87 72 7F   7C 95 56 7A A1 93 98 31  .#..#.r...Vz...1
+0010: 01 73 8E 28 6D 01 A3 0C   B7 4F B6 D3 D7 0B 56 97  .s.(m....O....V.
+Server write key:
+0000: FC AC 82 14 9A B9 F0 24   47 D6 B5 19 52 3F B3 F5  .......$G...R?..
+0010: 8F 1B 74 61 28 BB FD 9A   05 15 5C BA 0F 44 CE 48  ..ta(.....\..D.H
+Client write IV:
+0000: 92 5C 6E 40                                        .\n@
+Server write IV:
+0000: 6A C0 F3 0C                                        j...
+update handshake state: change_cipher_spec
+upcoming handshake states: client finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+main, WRITE: TLSv1.2 Change Cipher Spec, length = 1
+[Raw write]: length = 6
+0000: 14 03 03 00 01 01                                  ......
+*** Finished
+verify_data:  { 158, 177, 222, 224, 69, 118, 228, 190, 138, 193, 140, 74 }
+***
+update handshake state: finished[20]
+upcoming handshake states: server change_cipher_spec[-1]
+upcoming handshake states: server finished[20]
+[write] MD5 and SHA1 hashes:  len = 16
+0000: 14 00 00 0C 9E B1 DE E0   45 76 E4 BE 8A C1 8C 4A  ........Ev.....J
+Padded plaintext before ENCRYPTION:  len = 16
+0000: 14 00 00 0C 9E B1 DE E0   45 76 E4 BE 8A C1 8C 4A  ........Ev.....J
+main, WRITE: TLSv1.2 Handshake, length = 40
+[Raw write]: length = 45
+0000: 16 03 03 00 28 00 00 00   00 00 00 00 00 99 6B 7F  ....(.........k.
+0010: C1 4C 28 2D B0 D2 7F 29   31 6E 2E E8 B0 41 0E 85  .L(-...)1n...A..
+0020: 8F A7 A3 0D 52 D2 81 51   AB 1A E8 DF 67           ....R..Q....g
+[Raw read]: length = 5
+javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+0000: 15 03 03 00 02                                     .....
+[Raw read]: length = 2
+0000: 02 28                                              .(
+main, READ: TLSv1.2 Alert, length = 2
+main, RECV TLSv1.2 ALERT:  fatal, handshake_failure
+%% Invalidated:  [Session-1, TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384]
+main, called closeSocket()
+main, handling exception: javax.net.ssl.SSLHandshakeException: Received fatal alert: handshake_failure
+main, called close()
+main, called closeInternal(true)
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:192)
+	at sun.security.ssl.Alerts.getSSLException(Alerts.java:154)
+	at sun.security.ssl.SSLSocketImpl.recvAlert(SSLSocketImpl.java:2020)
+	at sun.security.ssl.SSLSocketImpl.readRecord(SSLSocketImpl.java:1127)
+	at sun.security.ssl.SSLSocketImpl.performInitialHandshake(SSLSocketImpl.java:1367)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1395)
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:1379)
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:559)
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:185)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream0(HttpURLConnection.java:1334)
+	at sun.net.www.protocol.http.HttpURLConnection.getOutputStream(HttpURLConnection.java:1309)
+	at com.sun.net.ssl.internal.www.protocol.https.HttpsURLConnectionOldImpl.getOutputStream(HttpsURLConnectionOldImpl.java:229)
+	at com.fss.pgservlet.HttpsConnection_Auth.send3DsMessage(HttpsConnection_Auth.java:387)
+	at com.fss.pgservlet.HttpsConnection_Auth.testVisa3dsCard(HttpsConnection_Auth.java:802)
+	at com.fss.pgservlet.HttpsConnection_Auth.main(HttpsConnection_Auth.java:750)
